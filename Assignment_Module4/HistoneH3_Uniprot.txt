@@ -1,0 +1,1914 @@
+ID   H31_HUMAN               Reviewed;         136 AA.
+AC   P68431; A0PJT7; A5PLR1; P02295; P02296; P16106; Q6ISV8; Q6NWP8;
+AC   Q6NWP9; Q6NXU4; Q71DJ3; Q93081;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   16-JAN-2019, entry version 169.
+DE   RecName: Full=Histone H3.1;
+DE   AltName: Full=Histone H3/a;
+DE   AltName: Full=Histone H3/b;
+DE   AltName: Full=Histone H3/c;
+DE   AltName: Full=Histone H3/d;
+DE   AltName: Full=Histone H3/f;
+DE   AltName: Full=Histone H3/h;
+DE   AltName: Full=Histone H3/i;
+DE   AltName: Full=Histone H3/j;
+DE   AltName: Full=Histone H3/k;
+DE   AltName: Full=Histone H3/l;
+GN   Name=HIST1H3A; Synonyms=H3FA;
+GN   and
+GN   Name=HIST1H3B; Synonyms=H3FL;
+GN   and
+GN   Name=HIST1H3C; Synonyms=H3FC;
+GN   and
+GN   Name=HIST1H3D; Synonyms=H3FB;
+GN   and
+GN   Name=HIST1H3E; Synonyms=H3FD;
+GN   and
+GN   Name=HIST1H3F; Synonyms=H3FI;
+GN   and
+GN   Name=HIST1H3G; Synonyms=H3FH;
+GN   and
+GN   Name=HIST1H3H; Synonyms=H3FK;
+GN   and
+GN   Name=HIST1H3I; Synonyms=H3FF;
+GN   and
+GN   Name=HIST1H3J; Synonyms=H3FJ;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (HIST1H3B).
+RX   PubMed=6647026; DOI=10.1093/nar/11.21.7409;
+RA   Zhong R., Roeder R.G., Heintz N.;
+RT   "The primary structure and expression of four cloned human histone
+RT   genes.";
+RL   Nucleic Acids Res. 11:7409-7425(1983).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3013246;
+RA   Marashi F., Helms S., Shiels A., Silverstein S., Greenspan D.S.,
+RA   Stein G., Stein J.;
+RT   "Enhancer-facilitated expression of prokaryotic and eukaryotic genes
+RT   using human histone gene 5' regulatory sequences.";
+RL   Biochem. Cell Biol. 64:277-289(1986).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (H3FD).
+RX   PubMed=1916825; DOI=10.1016/0888-7543(91)90183-F;
+RA   Albig W., Kardalinou E., Drabent B., Zimmer A., Doenecke D.;
+RT   "Isolation and characterization of two human H1 histone genes within
+RT   clusters of core histone genes.";
+RL   Genomics 10:940-948(1991).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8227173; DOI=10.1002/jcb.240520402;
+RA   Kardalinou E., Eick S., Albig W., Doenecke D.;
+RT   "Association of a human H1 histone gene with an H2A pseudogene and
+RT   genes encoding H2B.1 and H3.1 histones.";
+RL   J. Cell. Biochem. 52:375-383(1993).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   TISSUE=Blood;
+RA   Runge D., Eick S., Doenecke D.;
+RT   "Expression of human histone h1.1 and the nearby core histones.";
+RL   Submitted (OCT-1994) to the EMBL/GenBank/DDBJ databases.
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (HIST1H3I).
+RX   PubMed=9031620; DOI=10.1016/S0378-1119(96)00582-3;
+RA   Albig W., Meergans T., Doenecke D.;
+RT   "Characterization of the H1.5 gene completes the set of human H1
+RT   subtype genes.";
+RL   Gene 184:141-148(1997).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (HIST1H3D; HIST1H3F AND HIST1H3G).
+RX   PubMed=9119399; DOI=10.1006/geno.1996.4592;
+RA   Albig W., Kioschis P., Poustka A., Meergans K., Doenecke D.;
+RT   "Human histone gene organization: nonregular arrangement within a
+RT   large cluster.";
+RL   Genomics 40:314-322(1997).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (HIST1H3H AND HIST1H3J).
+RX   PubMed=9439656; DOI=10.1007/s004390050630;
+RA   Albig W., Doenecke D.;
+RT   "The human histone gene cluster at the D6S105 locus.";
+RL   Hum. Genet. 101:284-294(1997).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (HIST1H3A; HIST1H3B; HIST1H3C;
+RP   HIST1H3D; HIST1H3E; HIST1H3F; HIST1H3G; HIST1H3H; HIST1H3I; HIST1H3J).
+RX   PubMed=12408966; DOI=10.1006/geno.2002.6850;
+RA   Marzluff W.F., Gongidi P., Woods K.R., Jin J., Maltais L.J.;
+RT   "The human and mouse replication-dependent histone genes.";
+RL   Genomics 80:487-498(2002).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Caudate nucleus, Stomach, and Thymus;
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [11]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RA   Halleck A., Ebert L., Mkoundinya M., Schick M., Eisenstein S.,
+RA   Neubert P., Kstrang K., Schatten R., Shen B., Henze S., Mar W.,
+RA   Korn B., Zuo D., Hu Y., LaBaer J.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [12]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E.,
+RA   Gilbert J.G.R., Clamp M.E., Bethel G., Milne S., Ainscough R.,
+RA   Almeida J.P., Ambrose K.D., Andrews T.D., Ashwell R.I.S.,
+RA   Babbage A.K., Bagguley C.L., Bailey J., Banerjee R., Barker D.J.,
+RA   Barlow K.F., Bates K., Beare D.M., Beasley H., Beasley O., Bird C.P.,
+RA   Blakey S.E., Bray-Allen S., Brook J., Brown A.J., Brown J.Y.,
+RA   Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E.,
+RA   Ellington A.E., Evans K.A., Faulkner L., Francis M.D., Frankish A.,
+RA   Frankland J., French L., Garner P., Garnett J., Ghori M.J.,
+RA   Gilby L.M., Gillson C.J., Glithero R.J., Grafham D.V., Grant M.,
+RA   Gribble S., Griffiths C., Griffiths M.N.D., Hall R., Halls K.S.,
+RA   Hammond S., Harley J.L., Hart E.A., Heath P.D., Heathcott R.,
+RA   Holmes S.J., Howden P.J., Howe K.L., Howell G.R., Huckle E.,
+RA   Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M., Joy A.A.,
+RA   Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K., Langford C.,
+RA   Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R., Lloyd D.M.,
+RA   Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K.,
+RA   McMurray A., Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T.,
+RA   Novik K.L., Oliver K., Overton-Larty E.K., Parker A., Patel R.,
+RA   Pearce A.V., Peck A.I., Phillimore B.J.C.T., Phillips S., Plumb R.W.,
+RA   Porter K.M., Ramsey Y., Ranby S.A., Rice C.M., Ross M.T., Searle S.M.,
+RA   Sehra H.K., Sheridan E., Skuce C.D., Smith S., Smith M., Spraggon L.,
+RA   Squares S.L., Steward C.A., Sycamore N., Tamlyn-Hall G., Tester J.,
+RA   Theaker A.J., Thomas D.W., Thorpe A., Tracey A., Tromans A., Tubby B.,
+RA   Wall M., Wallis J.M., West A.P., White S.S., Whitehead S.L.,
+RA   Whittaker H., Wild A., Willey D.J., Wilmer T.E., Wood J.M., Wray P.W.,
+RA   Wyatt J.C., Young L., Younger R.M., Bentley D.R., Coulson A.,
+RA   Durbin R.M., Hubbard T., Sulston J.E., Dunham I., Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [13]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Uterus;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [14]
+RP   PARTIAL PROTEIN SEQUENCE.
+RC   TISSUE=Spleen;
+RX   PubMed=7309716;
+RA   Ohe Y., Iwai K.;
+RT   "Human spleen histone H3. Isolation and amino acid sequence.";
+RL   J. Biochem. 90:1205-1211(1981).
+RN   [15]
+RP   PROTEIN SEQUENCE OF 2-20, METHYLATION AT LYS-10; LYS-28 AND LYS-37,
+RP   PHOSPHORYLATION AT THR-4; SER-11 AND SER-29, ACETYLATION AT LYS-10 AND
+RP   LYS-15, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=16185088; DOI=10.1021/bi050906n;
+RA   Garcia B.A., Barber C.M., Hake S.B., Ptak C., Turner F.B., Busby S.A.,
+RA   Shabanowitz J., Moran R.G., Allis C.D., Hunt D.F.;
+RT   "Modifications of human histone H3 variants during mitosis.";
+RL   Biochemistry 44:13202-13213(2005).
+RN   [16]
+RP   PROTEIN SEQUENCE OF 58-64; 117-120 AND 124-135, AND PHOSPHORYLATION AT
+RP   SER-11 AND SER-29.
+RX   PubMed=10464286; DOI=10.1074/jbc.274.36.25543;
+RA   Goto H., Tomono Y., Ajiro K., Kosako H., Fujita M., Sakurai M.,
+RA   Okawa K., Iwamatsu A., Okigaki T., Takahashi T., Inagaki M.;
+RT   "Identification of a novel phosphorylation site on histone H3 coupled
+RT   with mitotic chromosome condensation.";
+RL   J. Biol. Chem. 274:25543-25549(1999).
+RN   [17]
+RP   METHYLATION AT LYS-10.
+RX   PubMed=11242053; DOI=10.1038/35065132;
+RA   Lachner M., O'Carroll D., Rea S., Mechtler K., Jenuwein T.;
+RT   "Methylation of histone H3 lysine 9 creates a binding site for HP1
+RT   proteins.";
+RL   Nature 410:116-120(2001).
+RN   [18]
+RP   PHOSPHORYLATION AT SER-11 AND SER-29.
+RX   PubMed=11856369; DOI=10.1046/j.1356-9597.2001.00498.x;
+RA   Goto H., Yasui Y., Nigg E.A., Inagaki M.;
+RT   "Aurora-B phosphorylates Histone H3 at serine28 with regard to the
+RT   mitotic chromosome condensation.";
+RL   Genes Cells 7:11-17(2002).
+RN   [19]
+RP   PHOSPHORYLATION AT SER-11 AND THR-12.
+RX   PubMed=12560483; DOI=10.1093/nar/gkg176;
+RA   Preuss U., Landsberg G., Scheidtmann K.H.;
+RT   "Novel mitosis-specific phosphorylation of histone H3 at Thr11
+RT   mediated by Dlk/ZIP kinase.";
+RL   Nucleic Acids Res. 31:878-885(2003).
+RN   [20]
+RP   METHYLATION AT ARG-18.
+RX   PubMed=15471871; DOI=10.1074/jbc.M410021200;
+RA   Ananthanarayanan M., Li S., Balasubramaniyan N., Suchy F.J.,
+RA   Walsh M.J.;
+RT   "Ligand-dependent activation of the farnesoid X-receptor directs
+RT   arginine methylation of histone H3 by CARM1.";
+RL   J. Biol. Chem. 279:54348-54357(2004).
+RN   [21]
+RP   METHYLATION AT LYS-80.
+RX   PubMed=15525939; DOI=10.1038/nature03114;
+RA   Huyen Y., Zgheib O., Ditullio R.A. Jr., Gorgoulis V.G., Zacharatos P.,
+RA   Petty T.J., Sheston E.A., Mellert H.S., Stavridi E.S.,
+RA   Halazonetis T.D.;
+RT   "Methylated lysine 79 of histone H3 targets 53BP1 to DNA double-strand
+RT   breaks.";
+RL   Nature 432:406-411(2004).
+RN   [22]
+RP   CITRULLINATION AT ARG-9 AND ARG-18, AND METHYLATION AT ARG-18.
+RX   PubMed=15345777; DOI=10.1126/science.1101400;
+RA   Wang Y., Wysocka J., Sayegh J., Lee Y.-H., Perlin J.R., Leonelli L.,
+RA   Sonbuchner L.S., McDonald C.H., Cook R.G., Dou Y., Roeder R.G.,
+RA   Clarke S., Stallcup M.R., Allis C.D., Coonrod S.A.;
+RT   "Human PAD4 regulates histone arginine methylation levels via
+RT   demethylimination.";
+RL   Science 306:279-283(2004).
+RN   [23]
+RP   PHOSPHORYLATION AT THR-4; SER-11 AND SER-29.
+RX   PubMed=15681610; DOI=10.1101/gad.1267105;
+RA   Dai J., Sultan S., Taylor S.S., Higgins J.M.G.;
+RT   "The kinase haspin is required for mitotic histone H3 Thr 3
+RT   phosphorylation and normal metaphase chromosome alignment.";
+RL   Genes Dev. 19:472-488(2005).
+RN   [24]
+RP   PHOSPHORYLATION AT SER-29.
+RX   PubMed=15684425; DOI=10.1074/jbc.M410521200;
+RA   Choi H.S., Choi B.Y., Cho Y.-Y., Zhu F., Bode A.M., Dong Z.;
+RT   "Phosphorylation of Ser28 in histone H3 mediated by mixed lineage
+RT   kinase-like mitogen-activated protein triple kinase alpha.";
+RL   J. Biol. Chem. 280:13545-13553(2005).
+RN   [25]
+RP   METHYLATION AT LYS-37 AND LYS-38, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY.
+RX   PubMed=15983376; DOI=10.1073/pnas.0503189102;
+RA   Coon J.J., Ueberheide B., Syka J.E.P., Dryhurst D.D., Ausio J.,
+RA   Shabanowitz J., Hunt D.F.;
+RT   "Protein identification using sequential ion/ion reactions and tandem
+RT   mass spectrometry.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 102:9463-9468(2005).
+RN   [26]
+RP   ACETYLATION AT LYS-10; LYS-15; LYS-19 AND LYS-24, METHYLATION AT
+RP   LYS-5; LYS-10; LYS-19; LYS-28; LYS-37; LYS-65; LYS-80 AND LYS-123, AND
+RP   IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=16267050; DOI=10.1074/jbc.M509266200;
+RA   Hake S.B., Garcia B.A., Duncan E.M., Kauer M., Dellaire G.,
+RA   Shabanowitz J., Bazett-Jones D.P., Allis C.D., Hunt D.F.;
+RT   "Expression patterns and post-translational modifications associated
+RT   with mammalian histone H3 variants.";
+RL   J. Biol. Chem. 281:559-568(2006).
+RN   [27]
+RP   METHYLATION AT LYS-5 AND LYS-10, ACETYLATION AT LYS-10; LYS-15 AND
+RP   LYS-24, PHOSPHORYLATION AT SER-11 AND SER-29, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY.
+RX   PubMed=16457588; DOI=10.1021/pr050266a;
+RA   Thomas C.E., Kelleher N.L., Mizzen C.A.;
+RT   "Mass spectrometric characterization of human histone H3: a bird's eye
+RT   view.";
+RL   J. Proteome Res. 5:240-247(2006).
+RN   [28]
+RP   UBIQUITINATION.
+RX   PubMed=16678110; DOI=10.1016/j.molcel.2006.03.035;
+RA   Wang H., Zhai L., Xu J., Joo H.-Y., Jackson S., Erdjument-Bromage H.,
+RA   Tempst P., Xiong Y., Zhang Y.;
+RT   "Histone H3 and H4 ubiquitylation by the CUL4-DDB-ROC1 ubiquitin
+RT   ligase facilitates cellular response to DNA damage.";
+RL   Mol. Cell 22:383-394(2006).
+RN   [29]
+RP   ACETYLATION AT LYS-10; LYS-15; LYS-19; LYS-24 AND LYS-28, METHYLATION
+RP   AT LYS-28; LYS-37 AND LYS-80, AND IDENTIFICATION BY MASS SPECTROMETRY.
+RX   PubMed=16627869; DOI=10.1074/mcp.M600007-MCP200;
+RA   Beck H.C., Nielsen E.C., Matthiesen R., Jensen L.H., Sehested M.,
+RA   Finn P., Grauslund M., Hansen A.M., Jensen O.N.;
+RT   "Quantitative proteomic analysis of post-translational modifications
+RT   of human histones.";
+RL   Mol. Cell. Proteomics 5:1314-1325(2006).
+RN   [30]
+RP   ACETYLATION AT LYS-10 AND LYS-15, METHYLATION AT ARG-18, AND
+RP   CITRULLINATION AT ARG-18.
+RX   PubMed=16497732; DOI=10.1210/me.2005-0365;
+RA   Miao F., Li S., Chavez V., Lanting L., Natarajan R.;
+RT   "Coactivator-associated arginine methyltransferase-1 enhances nuclear
+RT   factor-kappaB-mediated gene transcription through methylation of
+RT   histone H3 at arginine 17.";
+RL   Mol. Endocrinol. 20:1562-1573(2006).
+RN   [31]
+RP   CITRULLINATION AT ARG-3; ARG-9; ARG-18 AND ARG-27.
+RX   PubMed=16567635; DOI=10.1073/pnas.0509639103;
+RA   Arita K., Shimizu T., Hashimoto H., Hidaka Y., Yamada M., Sato M.;
+RT   "Structural basis for histone N-terminal recognition by human
+RT   peptidylarginine deiminase 4.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:5291-5296(2006).
+RN   [32]
+RP   METHYLATION AT ARG-3 BY PRMT6.
+RX   PubMed=18079182; DOI=10.1101/gad.447007;
+RA   Hyllus D., Stein C., Schnabel K., Schiltz E., Imhof A., Dou Y.,
+RA   Hsieh J., Bauer U.M.;
+RT   "PRMT6-mediated methylation of R2 in histone H3 antagonizes H3 K4
+RT   trimethylation.";
+RL   Genes Dev. 21:3369-3380(2007).
+RN   [33]
+RP   ACETYLATION AT LYS-5; LYS-10; LYS-15; LYS-19; LYS-24; LYS-28; LYS-37;
+RP   LYS-57 AND LYS-80, METHYLATION AT LYS-5; LYS-10; LYS-19; LYS-24;
+RP   LYS-28; LYS-37; LYS-57; LYS-65; LYS-80 AND LYS-123, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY.
+RX   PubMed=17194708; DOI=10.1074/jbc.M607900200;
+RA   Garcia B.A., Hake S.B., Diaz R.L., Kauer M., Morris S.A., Recht J.,
+RA   Shabanowitz J., Mishra N., Strahl B.D., Allis C.D., Hunt D.F.;
+RT   "Organismal differences in post-translational modifications in
+RT   histones H3 and H4.";
+RL   J. Biol. Chem. 282:7641-7655(2007).
+RN   [34]
+RP   ACETYLATION AT LYS-37.
+RX   PubMed=17189264; DOI=10.1074/jbc.M607909200;
+RA   Morris S.A., Rao B., Garcia B.A., Hake S.B., Diaz R.L.,
+RA   Shabanowitz J., Hunt D.F., Allis C.D., Lieb J.D., Strahl B.D.;
+RT   "Identification of histone H3 lysine 36 acetylation as a highly
+RT   conserved histone modification.";
+RL   J. Biol. Chem. 282:7632-7640(2007).
+RN   [35]
+RP   METHYLATION AT ARG-3 BY PRMT6.
+RX   PubMed=17898714; DOI=10.1038/nature06166;
+RA   Guccione E., Bassi C., Casadio F., Martinato F., Cesaroni M.,
+RA   Schuchlautz H., Luescher B., Amati B.;
+RT   "Methylation of histone H3R2 by PRMT6 and H3K4 by an MLL complex are
+RT   mutually exclusive.";
+RL   Nature 449:933-937(2007).
+RN   [36]
+RP   PHOSPHORYLATION AT THR-12 BY CHEK1.
+RX   PubMed=18243098; DOI=10.1016/j.cell.2007.12.013;
+RA   Shimada M., Niida H., Zineldeen D.H., Tagami H., Tanaka M., Saito H.,
+RA   Nakanishi M.;
+RT   "Chk1 is a histone H3 threonine 11 kinase that regulates DNA damage-
+RT   induced transcriptional repression.";
+RL   Cell 132:221-232(2008).
+RN   [37]
+RP   METHYLATION AT ARG-3 BY PRMT6.
+RX   PubMed=18077460; DOI=10.1074/jbc.C700192200;
+RA   Iberg A.N., Espejo A., Cheng D., Kim D., Michaud-Levesque J.,
+RA   Richard S., Bedford M.T.;
+RT   "Arginine methylation of the histone H3 tail impedes effector
+RT   binding.";
+RL   J. Biol. Chem. 283:3006-3010(2008).
+RN   [38]
+RP   PHOSPHORYLATION AT THR-12.
+RX   PubMed=18066052; DOI=10.1038/ncb1668;
+RA   Metzger E., Yin N., Wissmann M., Kunowska N., Fischer K.,
+RA   Friedrichs N., Patnaik D., Higgins J.M., Potier N., Scheidtmann K.H.,
+RA   Buettner R., Schule R.;
+RT   "Phosphorylation of histone H3 at threonine 11 establishes a novel
+RT   chromatin mark for transcriptional regulation.";
+RL   Nat. Cell Biol. 10:53-60(2008).
+RN   [39]
+RP   ACETYLATION AT LYS-116 AND LYS-123.
+RX   PubMed=19520870; DOI=10.1074/jbc.M109.003202;
+RA   Manohar M., Mooney A.M., North J.A., Nakkula R.J., Picking J.W.,
+RA   Edon A., Fishel R., Poirier M.G., Ottesen J.J.;
+RT   "Acetylation of histone H3 at the nucleosome dyad alters DNA-histone
+RT   binding.";
+RL   J. Biol. Chem. 284:23312-23321(2009).
+RN   [40]
+RP   PHOSPHORYLATION AT TYR-42.
+RX   PubMed=19783980; DOI=10.1038/nature08448;
+RA   Dawson M.A., Bannister A.J., Gottgens B., Foster S.D., Bartke T.,
+RA   Green A.R., Kouzarides T.;
+RT   "JAK2 phosphorylates histone H3Y41 and excludes HP1alpha from
+RT   chromatin.";
+RL   Nature 461:819-822(2009).
+RN   [41]
+RP   PHOSPHORYLATION AT SER-58 AND THR-81.
+RX   PubMed=20850016; DOI=10.1016/j.cell.2010.08.020;
+RA   Vermeulen M., Eberl H.C., Matarese F., Marks H., Denissov S.,
+RA   Butter F., Lee K.K., Olsen J.V., Hyman A.A., Stunnenberg H.G.,
+RA   Mann M.;
+RT   "Quantitative interaction proteomics and genome-wide profiling of
+RT   epigenetic histone marks and their readers.";
+RL   Cell 142:967-980(2010).
+RN   [42]
+RP   PHOSPHORYLATION AT THR-7.
+RX   PubMed=20228790; DOI=10.1038/nature08839;
+RA   Metzger E., Imhof A., Patel D., Kahl P., Hoffmeyer K., Friedrichs N.,
+RA   Muller J.M., Greschik H., Kirfel J., Ji S., Kunowska N.,
+RA   Beisenherz-Huss C., Gunther T., Buettner R., Schule R.;
+RT   "Phosphorylation of histone H3T6 by PKCbeta(I) controls demethylation
+RT   at histone H3K4.";
+RL   Nature 464:792-796(2010).
+RN   [43]
+RP   CROTONYLATION AT LYS-5; LYS-10; LYS-19; LYS-24; LYS-28 AND LYS-57.
+RX   PubMed=21925322; DOI=10.1016/j.cell.2011.08.008;
+RA   Tan M., Luo H., Lee S., Jin F., Yang J.S., Montellier E., Buchou T.,
+RA   Cheng Z., Rousseaux S., Rajagopal N., Lu Z., Ye Z., Zhu Q.,
+RA   Wysocka J., Ye Y., Khochbin S., Ren B., Zhao Y.;
+RT   "Identification of 67 histone marks and histone lysine crotonylation
+RT   as a new type of histone modification.";
+RL   Cell 146:1016-1028(2011).
+RN   [44]
+RP   METHYLATION AT LYS-57.
+RX   PubMed=22387026; DOI=10.1016/j.molcel.2012.01.019;
+RA   Yu Y., Song C., Zhang Q., Dimaggio P.A., Garcia B.A., York A.,
+RA   Carey M.F., Grunstein M.;
+RT   "Histone H3 lysine 56 methylation regulates DNA replication through
+RT   its interaction with PCNA.";
+RL   Mol. Cell 46:7-17(2012).
+RN   [45]
+RP   CAUTION.
+RX   PubMed=22483618; DOI=10.1016/j.molcel.2012.03.002;
+RA   Herranz N., Dave N., Millanes-Romero A., Morey L., Diaz V.M.,
+RA   Lorenz-Fonfria V., Gutierrez-Gallego R., Jeronimo C., Di Croce L.,
+RA   Garcia de Herreros A., Peiro S.;
+RT   "Lysyl oxidase-like 2 deaminates lysine 4 in histone H3.";
+RL   Mol. Cell 46:369-376(2012).
+RN   [46]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=25944712; DOI=10.1002/pmic.201400617;
+RA   Vaca Jacome A.S., Rabilloud T., Schaeffer-Reiss C., Rompais M.,
+RA   Ayoub D., Lane L., Bairoch A., Van Dorsselaer A., Carapito C.;
+RT   "N-terminome analysis of the human mitochondrial proteome.";
+RL   Proteomics 15:2519-2524(2015).
+RN   [47]
+RP   RETRACTION.
+RX   PubMed=27392148; DOI=10.1016/j.molcel.2016.06.013;
+RA   Herranz N., Dave N., Millanes-Romero A., Morey L., Diaz V.M.,
+RA   Lorenz-Fonfria V., Gutierrez-Gallego R., Jeronimo C., Di Croce L.,
+RA   Garcia de Herreros A., Peiro S.;
+RL   Mol. Cell 63:180-180(2016).
+RN   [48]
+RP   SUCCINYLATION AT LYS-15; LYS-57; LYS-80 AND LYS-123.
+RX   PubMed=22389435; DOI=10.1074/mcp.M111.015875;
+RA   Xie Z., Dai J., Dai L., Tan M., Cheng Z., Wu Y., Boeke J.D., Zhao Y.;
+RT   "Lysine succinylation and lysine malonylation in histones.";
+RL   Mol. Cell. Proteomics 11:100-107(2012).
+RN   [49]
+RP   INVOLVEMENT IN GLM, AND VARIANT GLM MET-28.
+RX   PubMed=22286216; DOI=10.1038/ng.1102;
+RG   St. Jude Children's Research Hospital-Washington University Pediatric Cancer Genome Project;
+RA   Wu G., Broniscer A., McEachron T.A., Lu C., Paugh B.S., Becksfort J.,
+RA   Qu C., Ding L., Huether R., Parker M., Zhang J., Gajjar A., Dyer M.A.,
+RA   Mullighan C.G., Gilbertson R.J., Mardis E.R., Wilson R.K.,
+RA   Downing J.R., Ellison D.W., Zhang J., Baker S.J.;
+RT   "Somatic histone H3 alterations in pediatric diffuse intrinsic pontine
+RT   gliomas and non-brainstem glioblastomas.";
+RL   Nat. Genet. 44:251-253(2012).
+RN   [50]
+RP   ACETYLATION AT LYS-123.
+RX   PubMed=23415232; DOI=10.1016/j.cell.2013.01.032;
+RA   Tropberger P., Pott S., Keller C., Kamieniarz-Gdula K., Caron M.,
+RA   Richter F., Li G., Mittler G., Liu E.T., Buhler M., Margueron R.,
+RA   Schneider R.;
+RT   "Regulation of transcription through acetylation of H3K122 on the
+RT   lateral surface of the histone octamer.";
+RL   Cell 152:859-872(2013).
+RN   [51]
+RP   ALLYSINE AT LYS-5.
+RX   PubMed=27735137; DOI=10.1111/febs.13922;
+RA   Herranz N., Dave N., Millanes-Romero A., Pascual-Reguant L., Morey L.,
+RA   Diaz V.M., Lorenz-Fonfria V., Gutierrez-Gallego R., Jeronimo C.,
+RA   Iturbide A., Di Croce L., Garcia de Herreros A., Peiro S.;
+RT   "Lysyl oxidase-like 2 (LOXL2) oxidizes trimethylated lysine 4 in
+RT   histone H3.";
+RL   FEBS J. 283:4263-4273(2016).
+RN   [52]
+RP   BUTYRYLATION AT LYS-10; LYS-19 AND LYS-24.
+RX   PubMed=27105113; DOI=10.1016/j.molcel.2016.03.014;
+RA   Goudarzi A., Zhang D., Huang H., Barral S., Kwon O.K., Qi S., Tang Z.,
+RA   Buchou T., Vitte A.L., He T., Cheng Z., Montellier E., Gaucher J.,
+RA   Curtet S., Debernardi A., Charbonnier G., Puthier D., Petosa C.,
+RA   Panne D., Rousseaux S., Roeder R.G., Zhao Y., Khochbin S.;
+RT   "Dynamic competing histone H4 K5K8 acetylation and butyrylation are
+RT   hallmarks of highly active gene promoters.";
+RL   Mol. Cell 62:169-180(2016).
+RN   [53]
+RP   HYDROXYBUTYRYLATION AT LYS-5; LYS-10; LYS-15; LYS-19; LYS-24; LYS-28;
+RP   LYS-57; LYS-80 AND LYS-123.
+RX   PubMed=27105115; DOI=10.1016/j.molcel.2016.03.036;
+RA   Xie Z., Zhang D., Chung D., Tang Z., Huang H., Dai L., Qi S., Li J.,
+RA   Colak G., Chen Y., Xia C., Peng C., Ruan H., Kirkey M., Wang D.,
+RA   Jensen L.M., Kwon O.K., Lee S., Pletcher S.D., Tan M., Lombard D.B.,
+RA   White K.P., Zhao H., Li J., Roeder R.G., Yang X., Zhao Y.;
+RT   "Metabolic regulation of gene expression by histone lysine beta-
+RT   hydroxybutyrylation.";
+RL   Mol. Cell 62:194-206(2016).
+RN   [54]
+RP   HYDROXYBUTYRYLATION AT LYS-5; LYS-10; LYS-15; LYS-19; LYS-24; LYS-28;
+RP   LYS-37; LYS-57; LYS-65; LYS-80 AND LYS-123.
+RX   PubMed=24681537; DOI=10.1038/nchembio.1497;
+RA   Dai L., Peng C., Montellier E., Lu Z., Chen Y., Ishii H.,
+RA   Debernardi A., Buchou T., Rousseaux S., Jin F., Sabari B.R., Deng Z.,
+RA   Allis C.D., Ren B., Khochbin S., Zhao Y.;
+RT   "Lysine 2-hydroxyisobutyrylation is a widely distributed active
+RT   histone mark.";
+RL   Nat. Chem. Biol. 10:365-370(2014).
+RN   [55]
+RP   INVOLVEMENT IN SOFT TISSUE SARCOMAS, VARIANTS ILE-37 AND MET-37, AND
+RP   CHARACTERIZATION OF VARIANTS ILE-37 AND MET-37.
+RX   PubMed=27174990; DOI=10.1126/science.aac7272;
+RA   Lu C., Jain S.U., Hoelper D., Bechet D., Molden R.C., Ran L.,
+RA   Murphy D., Venneti S., Hameed M., Pawel B.R., Wunder J.S.,
+RA   Dickson B.C., Lundgren S.M., Jani K.S., De Jay N.,
+RA   Papillon-Cavanagh S., Andrulis I.L., Sawyer S.L., Grynspan D.,
+RA   Turcotte R.E., Nadaf J., Fahiminiyah S., Muir T.W., Majewski J.,
+RA   Thompson C.B., Chi P., Garcia B.A., Allis C.D., Jabado N., Lewis P.W.;
+RT   "Histone H3K36 mutations promote sarcomagenesis through altered
+RT   histone methylation landscape.";
+RL   Science 352:844-849(2016).
+RN   [56]
+RP   ADP-RIBOSYLATION AT SER-11 AND SER-29.
+RX   PubMed=28190768; DOI=10.1016/j.molcel.2017.01.003;
+RA   Bonfiglio J.J., Fontana P., Zhang Q., Colby T., Gibbs-Seymour I.,
+RA   Atanassov I., Bartlett E., Zaja R., Ahel I., Matic I.;
+RT   "Serine ADP-ribosylation depends on HPF1.";
+RL   Mol. Cell 0:0-0(2017).
+RN   [57]
+RP   SUCCINYLATION AT LYS-80.
+RX   PubMed=29211711; DOI=10.1038/nature25003;
+RA   Wang Y., Guo Y.R., Liu K., Yin Z., Liu R., Xia Y., Tan L., Yang P.,
+RA   Lee J.H., Li X.J., Hawke D., Zheng Y., Qian X., Lyu J., He J.,
+RA   Xing D., Tao Y.J., Lu Z.;
+RT   "KAT2A coupled with the alpha-KGDH complex acts as a histone H3
+RT   succinyltransferase.";
+RL   Nature 552:273-277(2017).
+RN   [58]
+RP   ADP-RIBOSYLATION AT SER-11.
+RX   PubMed=30257210; DOI=10.1016/j.celrep.2018.08.092;
+RA   Bartlett E., Bonfiglio J.J., Prokhorova E., Colby T., Zobel F.,
+RA   Ahel I., Matic I.;
+RT   "Interplay of histone marks with serine ADP-ribosylation.";
+RL   Cell Rep. 24:3488-3502(2018).
+RN   [59]
+RP   ADP-RIBOSYLATION AT SER-11 AND SER-29.
+RX   PubMed=29480802; DOI=10.7554/eLife.34334;
+RA   Palazzo L., Leidecker O., Prokhorova E., Dauben H., Matic I., Ahel I.;
+RT   "Serine is the major residue for ADP-ribosylation upon DNA damage.";
+RL   Elife 7:0-0(2018).
+RN   [60]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 8-15 IN COMPLEX WITH YWHAZ.
+RX   PubMed=16246723; DOI=10.1016/j.molcel.2005.08.032;
+RA   Macdonald N., Welburn J.P.I., Noble M.E.M., Nguyen A., Yaffe M.B.,
+RA   Clynes D., Moggs J.G., Orphanides G., Thomson S., Edmunds J.W.,
+RA   Clayton A.L., Endicott J.A., Mahadevan L.C.;
+RT   "Molecular basis for the recognition of phosphorylated and
+RT   phosphoacetylated histone h3 by 14-3-3.";
+RL   Mol. Cell 20:199-211(2005).
+RN   [61]
+RP   X-RAY CRYSTALLOGRAPHY (2.45 ANGSTROMS) OF 2-20 IN COMPLEX WITH CHD1.
+RX   PubMed=16372014; DOI=10.1038/nature04290;
+RA   Flanagan J.F., Mi L.-Z., Chruszcz M., Cymborowski M., Clines K.L.,
+RA   Kim Y., Minor W., Rastinejad F., Khorasanizadeh S.;
+RT   "Double chromodomains cooperate to recognize the methylated histone H3
+RT   tail.";
+RL   Nature 438:1181-1185(2005).
+RN   [62]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS).
+RX   PubMed=15951514; DOI=10.1093/nar/gki663;
+RA   Tsunaka Y., Kajimura N., Tate S., Morikawa K.;
+RT   "Alteration of the nucleosomal DNA path in the crystal structure of a
+RT   human nucleosome core particle.";
+RL   Nucleic Acids Res. 33:3424-3434(2005).
+RN   [63]
+RP   CHARACTERIZATION OF VARIANT GLM MET-28.
+RX   PubMed=23603901; DOI=10.1101/gad.217778.113;
+RA   Chan K.M., Fang D., Gan H., Hashizume R., Yu C., Schroeder M.,
+RA   Gupta N., Mueller S., James C.D., Jenkins R., Sarkaria J., Zhang Z.;
+RT   "The histone H3.3K27M mutation in pediatric glioma reprograms H3K27
+RT   methylation and gene expression.";
+RL   Genes Dev. 27:985-990(2013).
+RN   [64]
+RP   VARIANT MET-37.
+RX   PubMed=28067913; DOI=10.1038/ng.3757;
+RA   Papillon-Cavanagh S., Lu C., Gayden T., Mikael L.G., Bechet D.,
+RA   Karamboulas C., Ailles L., Karamchandani J., Marchione D.M.,
+RA   Garcia B.A., Weinreb I., Goldstein D., Lewis P.W., Dancu O.M.,
+RA   Dhaliwal S., Stecho W., Howlett C.J., Mymryk J.S., Barrett J.W.,
+RA   Nichols A.C., Allis C.D., Majewski J., Jabado N.;
+RT   "Impaired H3K36 methylation defines a subset of head and neck squamous
+RT   cell carcinomas.";
+RL   Nat. Genet. 49:180-185(2017).
+CC   -!- FUNCTION: Core component of nucleosome. Nucleosomes wrap and
+CC       compact DNA into chromatin, limiting DNA accessibility to the
+CC       cellular machineries which require DNA as a template. Histones
+CC       thereby play a central role in transcription regulation, DNA
+CC       repair, DNA replication and chromosomal stability. DNA
+CC       accessibility is regulated via a complex set of post-translational
+CC       modifications of histones, also called histone code, and
+CC       nucleosome remodeling.
+CC   -!- SUBUNIT: The nucleosome is a histone octamer containing two
+CC       molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4
+CC       heterotetramer and two H2A-H2B heterodimers. The octamer wraps
+CC       approximately 147 bp of DNA. {ECO:0000269|PubMed:16246723,
+CC       ECO:0000269|PubMed:16372014}.
+CC   -!- INTERACTION:
+CC       O43918:AIRE; NbExp=20; IntAct=EBI-79722, EBI-1753081;
+CC       Q9Y294:ASF1A; NbExp=9; IntAct=EBI-79722, EBI-749553;
+CC       Q9NPI1:BRD7; NbExp=2; IntAct=EBI-79722, EBI-711221;
+CC       P83916:CBX1; NbExp=12; IntAct=EBI-79722, EBI-78129;
+CC       Q13185:CBX3; NbExp=5; IntAct=EBI-79722, EBI-78176;
+CC       P45973:CBX5; NbExp=9; IntAct=EBI-79722, EBI-78219;
+CC       Q9Y232:CDYL; NbExp=5; IntAct=EBI-79722, EBI-1387386;
+CC       Q9UER7-1:DAXX; NbExp=6; IntAct=EBI-79722, EBI-287635;
+CC       Q8WXX5:DNAJC9; NbExp=13; IntAct=EBI-79722, EBI-2349100;
+CC       Q8WUP2:FBLIM1; NbExp=11; IntAct=EBI-79722, EBI-3864120;
+CC       P62805:HIST2H4B; NbExp=6; IntAct=EBI-79722, EBI-302023;
+CC       P42858:HTT; NbExp=2; IntAct=EBI-79722, EBI-466029;
+CC       Q9UNL4:ING4; NbExp=3; IntAct=EBI-79722, EBI-2866661;
+CC       P38991:IPL1 (xeno); NbExp=2; IntAct=EBI-79722, EBI-9319;
+CC       O75164:KDM4A; NbExp=7; IntAct=EBI-79722, EBI-936709;
+CC       Q03164:KMT2A; NbExp=11; IntAct=EBI-79722, EBI-591370;
+CC       Q9Y468:L3MBTL1; NbExp=2; IntAct=EBI-79722, EBI-1265089;
+CC       P49736:MCM2; NbExp=5; IntAct=EBI-79722, EBI-374819;
+CC       Q99549:MPHOSPH8; NbExp=5; IntAct=EBI-79722, EBI-2653928;
+CC       P49321:NASP; NbExp=6; IntAct=EBI-79722, EBI-716205;
+CC       P49321-2:NASP; NbExp=16; IntAct=EBI-79722, EBI-7038920;
+CC       Q9BVI0:PHF20; NbExp=6; IntAct=EBI-79722, EBI-2560802;
+CC       A8MW92:PHF20L1; NbExp=2; IntAct=EBI-79722, EBI-2560834;
+CC       P14618-1:PKM; NbExp=3; IntAct=EBI-79722, EBI-4304679;
+CC       Q8WTS6:SETD7; NbExp=3; IntAct=EBI-79722, EBI-1268586;
+CC       P25554:SGF29 (xeno); NbExp=11; IntAct=EBI-79722, EBI-21678;
+CC       Q96ES7:SGF29; NbExp=25; IntAct=EBI-79722, EBI-743117;
+CC       Q12888:TP53BP1; NbExp=5; IntAct=EBI-79722, EBI-396540;
+CC       P61964:WDR5; NbExp=11; IntAct=EBI-79722, EBI-540834;
+CC       P63104:YWHAZ; NbExp=3; IntAct=EBI-79722, EBI-347088;
+CC       Q8R5C8:Zmynd11 (xeno); NbExp=4; IntAct=EBI-79722, EBI-647813;
+CC   -!- SUBCELLULAR LOCATION: Nucleus. Chromosome.
+CC   -!- DEVELOPMENTAL STAGE: Expressed during S phase, then expression
+CC       strongly decreases as cell division slows down during the process
+CC       of differentiation.
+CC   -!- PTM: Acetylation is generally linked to gene activation.
+CC       Acetylation on Lys-10 (H3K9ac) impairs methylation at Arg-9
+CC       (H3R8me2s). Acetylation on Lys-19 (H3K18ac) and Lys-24 (H3K24ac)
+CC       favors methylation at Arg-18 (H3R17me). Acetylation at Lys-123
+CC       (H3K122ac) by EP300/p300 plays a central role in chromatin
+CC       structure: localizes at the surface of the histone octamer and
+CC       stimulates transcription, possibly by promoting nucleosome
+CC       instability. {ECO:0000269|PubMed:11242053,
+CC       ECO:0000269|PubMed:15345777, ECO:0000269|PubMed:15471871,
+CC       ECO:0000269|PubMed:16185088, ECO:0000269|PubMed:16267050,
+CC       ECO:0000269|PubMed:16457588, ECO:0000269|PubMed:16497732,
+CC       ECO:0000269|PubMed:16627869, ECO:0000269|PubMed:17194708,
+CC       ECO:0000269|PubMed:19520870, ECO:0000269|PubMed:23415232}.
+CC   -!- PTM: Citrullination at Arg-9 (H3R8ci) and/or Arg-18 (H3R17ci) by
+CC       PADI4 impairs methylation and represses transcription.
+CC       {ECO:0000269|PubMed:15345777, ECO:0000269|PubMed:15471871,
+CC       ECO:0000269|PubMed:16497732, ECO:0000269|PubMed:16567635}.
+CC   -!- PTM: Asymmetric dimethylation at Arg-18 (H3R17me2a) by CARM1 is
+CC       linked to gene activation. Symmetric dimethylation at Arg-9
+CC       (H3R8me2s) by PRMT5 is linked to gene repression. Asymmetric
+CC       dimethylation at Arg-3 (H3R2me2a) by PRMT6 is linked to gene
+CC       repression and is mutually exclusive with H3 Lys-5 methylation
+CC       (H3K4me2 and H3K4me3). H3R2me2a is present at the 3' of genes
+CC       regardless of their transcription state and is enriched on
+CC       inactive promoters, while it is absent on active promoters.
+CC       {ECO:0000269|PubMed:15345777, ECO:0000269|PubMed:15471871,
+CC       ECO:0000269|PubMed:16267050, ECO:0000269|PubMed:16457588,
+CC       ECO:0000269|PubMed:16497732, ECO:0000269|PubMed:17194708,
+CC       ECO:0000269|PubMed:17898714, ECO:0000269|PubMed:18077460,
+CC       ECO:0000269|PubMed:18079182}.
+CC   -!- PTM: Methylation at Lys-5 (H3K4me), Lys-37 (H3K36me) and Lys-80
+CC       (H3K79me) are linked to gene activation. Methylation at Lys-5
+CC       (H3K4me) facilitates subsequent acetylation of H3 and H4.
+CC       Methylation at Lys-80 (H3K79me) is associated with DNA double-
+CC       strand break (DSB) responses and is a specific target for TP53BP1.
+CC       Methylation at Lys-10 (H3K9me) and Lys-28 (H3K27me) are linked to
+CC       gene repression. Methylation at Lys-10 (H3K9me) is a specific
+CC       target for HP1 proteins (CBX1, CBX3 and CBX5) and prevents
+CC       subsequent phosphorylation at Ser-11 (H3S10ph) and acetylation of
+CC       H3 and H4. Methylation at Lys-5 (H3K4me) and Lys-80 (H3K79me)
+CC       require preliminary monoubiquitination of H2B at 'Lys-120'.
+CC       Methylation at Lys-10 (H3K9me) and Lys-28 (H3K27me) are enriched
+CC       in inactive X chromosome chromatin. Monomethylation at Lys-57
+CC       (H3K56me1) by EHMT2/G9A in G1 phase promotes interaction with PCNA
+CC       and is required for DNA replication. {ECO:0000269|PubMed:10464286,
+CC       ECO:0000269|PubMed:11242053, ECO:0000269|PubMed:11856369,
+CC       ECO:0000269|PubMed:12560483, ECO:0000269|PubMed:15525939,
+CC       ECO:0000269|PubMed:15681610, ECO:0000269|PubMed:15983376,
+CC       ECO:0000269|PubMed:16185088, ECO:0000269|PubMed:16267050,
+CC       ECO:0000269|PubMed:16457588, ECO:0000269|PubMed:16497732,
+CC       ECO:0000269|PubMed:16627869, ECO:0000269|PubMed:17189264,
+CC       ECO:0000269|PubMed:17194708, ECO:0000269|PubMed:22387026}.
+CC   -!- PTM: Phosphorylated at Thr-4 (H3T3ph) by HASPIN during prophase
+CC       and dephosphorylated during anaphase. Phosphorylation at Ser-11
+CC       (H3S10ph) by AURKB is crucial for chromosome condensation and
+CC       cell-cycle progression during mitosis and meiosis. In addition
+CC       phosphorylation at Ser-11 (H3S10ph) by RPS6KA4 and RPS6KA5 is
+CC       important during interphase because it enables the transcription
+CC       of genes following external stimulation, like mitogens, stress,
+CC       growth factors or UV irradiation and result in the activation of
+CC       genes, such as c-fos and c-jun. Phosphorylation at Ser-11
+CC       (H3S10ph), which is linked to gene activation, prevents
+CC       methylation at Lys-10 (H3K9me) but facilitates acetylation of H3
+CC       and H4. Phosphorylation at Ser-11 (H3S10ph) by AURKB mediates the
+CC       dissociation of HP1 proteins (CBX1, CBX3 and CBX5) from
+CC       heterochromatin. Phosphorylation at Ser-11 (H3S10ph) is also an
+CC       essential regulatory mechanism for neoplastic cell transformation.
+CC       Phosphorylated at Ser-29 (H3S28ph) by MAP3K20 isoform 1, RPS6KA5
+CC       or AURKB during mitosis or upon ultraviolet B irradiation.
+CC       Phosphorylation at Thr-7 (H3T6ph) by PRKCB is a specific tag for
+CC       epigenetic transcriptional activation that prevents demethylation
+CC       of Lys-5 (H3K4me) by LSD1/KDM1A. At centromeres, specifically
+CC       phosphorylated at Thr-12 (H3T11ph) from prophase to early
+CC       anaphase, by DAPK3 and PKN1. Phosphorylation at Thr-12 (H3T11ph)
+CC       by PKN1 is a specific tag for epigenetic transcriptional
+CC       activation that promotes demethylation of Lys-10 (H3K9me) by
+CC       KDM4C/JMJD2C. Phosphorylation at Thr-12 (H3T11ph) by chromatin-
+CC       associated CHEK1 regulates the transcription of cell cycle
+CC       regulatory genes by modulating acetylation of Lys-10 (H3K9ac).
+CC       Phosphorylation at Tyr-42 (H3Y41ph) by JAK2 promotes exclusion of
+CC       CBX5 (HP1 alpha) from chromatin. {ECO:0000269|PubMed:10464286,
+CC       ECO:0000269|PubMed:11242053, ECO:0000269|PubMed:11856369,
+CC       ECO:0000269|PubMed:12560483, ECO:0000269|PubMed:15681610,
+CC       ECO:0000269|PubMed:15684425, ECO:0000269|PubMed:16185088,
+CC       ECO:0000269|PubMed:16267050, ECO:0000269|PubMed:16457588,
+CC       ECO:0000269|PubMed:16497732, ECO:0000269|PubMed:16627869,
+CC       ECO:0000269|PubMed:17194708, ECO:0000269|PubMed:18066052,
+CC       ECO:0000269|PubMed:18243098, ECO:0000269|PubMed:19783980,
+CC       ECO:0000269|PubMed:20228790, ECO:0000269|PubMed:20850016}.
+CC   -!- PTM: Monoubiquitinated by RAG1 in lymphoid cells,
+CC       monoubiquitination is required for V(D)J recombination (By
+CC       similarity). Ubiquitinated by the CUL4-DDB-RBX1 complex in
+CC       response to ultraviolet irradiation. This may weaken the
+CC       interaction between histones and DNA and facilitate DNA
+CC       accessibility to repair proteins. {ECO:0000250|UniProtKB:Q6LED0,
+CC       ECO:0000269|PubMed:16678110}.
+CC   -!- PTM: Lysine deamination at Lys-5 (H3K4all) to form allysine is
+CC       mediated by LOXL2. Allysine formation by LOXL2 only takes place on
+CC       H3K4me3 and results in gene repression.
+CC       {ECO:0000269|PubMed:27735137}.
+CC   -!- PTM: Crotonylation (Kcr) is specifically present in male germ
+CC       cells and marks testis-specific genes in post-meiotic cells,
+CC       including X-linked genes that escape sex chromosome inactivation
+CC       in haploid cells. Crotonylation marks active promoters and
+CC       enhancers and confers resistance to transcriptional repressors. It
+CC       is also associated with post-meiotically activated genes on
+CC       autosomes. {ECO:0000269|PubMed:21925322}.
+CC   -!- PTM: Butyrylation of histones marks active promoters and competes
+CC       with histone acetylation. It is present during late
+CC       spermatogenesis. {ECO:0000250|UniProtKB:P68433}.
+CC   -!- PTM: Succinylation at Lys-80 (H3K79succ) by KAT2A takes place with
+CC       a maximum frequency around the transcription start sites of genes
+CC       (PubMed:29211711). It gives a specific tag for epigenetic
+CC       transcription activation (PubMed:29211711).
+CC       {ECO:0000269|PubMed:29211711}.
+CC   -!- PTM: Serine ADP-ribosylation constitutes the primary form of ADP-
+CC       ribosylation of proteins in response to DNA damage
+CC       (PubMed:30257210). Serine ADP-ribosylation at Ser-11 (H3S10ADPr)
+CC       is mutually exclusive with phosphorylation at Ser-11 (H3S10ph) and
+CC       impairs acetylation at Lys-10 (H3K9ac) (PubMed:30257210).
+CC       {ECO:0000269|PubMed:30257210}.
+CC   -!- DISEASE: Glioma (GLM) [MIM:137800]: Gliomas are benign or
+CC       malignant central nervous system neoplasms derived from glial
+CC       cells. They comprise astrocytomas and glioblastoma multiforme that
+CC       are derived from astrocytes, oligodendrogliomas derived from
+CC       oligodendrocytes and ependymomas derived from ependymocytes.
+CC       {ECO:0000269|PubMed:22286216}. Note=The gene represented in this
+CC       entry is involved in disease pathogenesis. HIST1H3B mutations
+CC       affecting residue Lys-28 involved in post-translational
+CC       modifications of histone H3.1 are recurrent in malignant,
+CC       aggressive gliomas including pediatric non-brain stem glioblastoma
+CC       and diffuse intrinsic pontine glioma (DIPG) (PubMed:22286216). The
+CC       mechanism through which mutations lead to tumorigenesis involves
+CC       altered histone methylation, impaired regulation of Polycomb
+CC       repressive complex 2 (PRC2) activity, and aberrant epigenetic
+CC       regulation of gene expression (PubMed:23603901).
+CC       {ECO:0000269|PubMed:22286216, ECO:0000269|PubMed:23603901}.
+CC   -!- DISEASE: Note=HIST1H3B or HIST1H3C mutations affecting residue
+CC       Lys-37 of histone H3.1 are involved in the pathogenesis of
+CC       pediatric undifferentiated soft tissue sarcomas. The mechanism
+CC       through which mutations lead to tumorigenesis involves altered
+CC       histones methylation with gain of global H3K27 methylation,
+CC       altered Polycomb repressive complex 1 (PRC1) activity, aberrant
+CC       epigenetic regulation of gene expression and impaired
+CC       differentiation of mesenchimal progenitor cells.
+CC       {ECO:0000269|PubMed:27174990}.
+CC   -!- MISCELLANEOUS: This histone is only present in mammals and is
+CC       enriched in acetylation of Lys-15 and dimethylation of Lys-10
+CC       (H3K9me2).
+CC   -!- SIMILARITY: Belongs to the histone H3 family. {ECO:0000305}.
+CC   -!- CAUTION: The original paper reporting lysine deamination at Lys-5
+CC       by LOXL2 has been retracted due to inappropriate manipulation of
+CC       figure data (PubMed:22483618, PubMed:27392148). However, this
+CC       modification was confirmed in a subsequent publication
+CC       (PubMed:27735137). {ECO:0000269|PubMed:27735137,
+CC       ECO:0000305|PubMed:22483618, ECO:0000305|PubMed:27392148}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; X00090; CAA24952.1; -; Genomic_DNA.
+DR   EMBL; M26150; AAA52651.1; -; Genomic_DNA.
+DR   EMBL; M60746; AAA63185.1; -; Genomic_DNA.
+DR   EMBL; X57128; CAA40407.1; -; Genomic_DNA.
+DR   EMBL; Z46261; CAA86403.1; -; Genomic_DNA.
+DR   EMBL; X83550; CAA58540.1; -; Genomic_DNA.
+DR   EMBL; Z80784; CAB02546.1; -; Genomic_DNA.
+DR   EMBL; Z80785; CAB02547.1; -; Genomic_DNA.
+DR   EMBL; Z80786; CAB02548.1; -; Genomic_DNA.
+DR   EMBL; Z83735; CAB06030.1; -; Genomic_DNA.
+DR   EMBL; Z83737; CAB06032.1; -; Genomic_DNA.
+DR   EMBL; AF531274; AAN10051.1; -; Genomic_DNA.
+DR   EMBL; AF531275; AAN10052.1; -; Genomic_DNA.
+DR   EMBL; AF531276; AAN10053.1; -; Genomic_DNA.
+DR   EMBL; AF531277; AAN10054.1; -; Genomic_DNA.
+DR   EMBL; AF531278; AAN10055.1; -; Genomic_DNA.
+DR   EMBL; AF531279; AAN10056.1; -; Genomic_DNA.
+DR   EMBL; AF531280; AAN10057.1; -; Genomic_DNA.
+DR   EMBL; AF531281; AAN10058.1; -; Genomic_DNA.
+DR   EMBL; AF531282; AAN10059.1; -; Genomic_DNA.
+DR   EMBL; AF531283; AAN10060.1; -; Genomic_DNA.
+DR   EMBL; AK311991; BAG34929.1; -; mRNA.
+DR   EMBL; AK313905; BAG36628.1; -; mRNA.
+DR   EMBL; AK314142; BAG36832.1; -; mRNA.
+DR   EMBL; AK316611; BAG38198.1; -; mRNA.
+DR   EMBL; CR542014; CAG46811.1; -; mRNA.
+DR   EMBL; CR542011; CAG46808.1; -; mRNA.
+DR   EMBL; CR541983; CAG46780.1; -; mRNA.
+DR   EMBL; CR541858; CAG46656.1; -; mRNA.
+DR   EMBL; Z98744; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL009179; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL031777; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC031333; AAH31333.1; -; mRNA.
+DR   EMBL; BC066245; AAH66245.1; -; mRNA.
+DR   EMBL; BC066246; AAH66246.1; -; mRNA.
+DR   EMBL; BC066247; AAH66247.1; -; mRNA.
+DR   EMBL; BC066884; AAH66884.1; -; mRNA.
+DR   EMBL; BC067490; AAH67490.1; -; mRNA.
+DR   EMBL; BC067491; AAH67491.1; -; mRNA.
+DR   EMBL; BC067492; AAH67492.1; -; mRNA.
+DR   EMBL; BC067493; AAH67493.1; -; mRNA.
+DR   EMBL; BC069133; AAH69133.1; -; mRNA.
+DR   EMBL; BC069303; AAH69303.1; -; mRNA.
+DR   EMBL; BC069305; AAH69305.2; -; mRNA.
+DR   EMBL; BC069818; AAH69818.1; -; mRNA.
+DR   EMBL; BC096128; AAH96128.1; -; mRNA.
+DR   EMBL; BC096129; AAH96129.1; -; mRNA.
+DR   EMBL; BC096130; AAH96130.1; -; mRNA.
+DR   EMBL; BC096131; AAH96131.1; -; mRNA.
+DR   EMBL; BC096132; AAH96132.1; -; mRNA.
+DR   EMBL; BC096133; AAH96133.1; -; mRNA.
+DR   EMBL; BC096134; AAH96134.1; -; mRNA.
+DR   EMBL; BC099630; AAH99630.1; -; mRNA.
+DR   EMBL; BC127610; AAI27611.1; -; mRNA.
+DR   EMBL; BC143046; AAI43047.1; -; mRNA.
+DR   EMBL; BC148243; AAI48244.1; -; mRNA.
+DR   EMBL; BC148250; AAI48251.1; -; mRNA.
+DR   CCDS; CCDS4570.1; -.
+DR   CCDS; CCDS4573.1; -.
+DR   CCDS; CCDS4576.1; -.
+DR   CCDS; CCDS4590.1; -.
+DR   CCDS; CCDS4596.1; -.
+DR   CCDS; CCDS4600.1; -.
+DR   CCDS; CCDS4602.1; -.
+DR   CCDS; CCDS4627.1; -.
+DR   CCDS; CCDS4636.1; -.
+DR   CCDS; CCDS4638.1; -.
+DR   PIR; I37446; HSHU3.
+DR   RefSeq; NP_003520.1; NM_003529.2.
+DR   RefSeq; NP_003521.2; NM_003530.4.
+DR   RefSeq; NP_003522.1; NM_003531.2.
+DR   RefSeq; NP_003523.1; NM_003532.2.
+DR   RefSeq; NP_003524.1; NM_003533.2.
+DR   RefSeq; NP_003525.1; NM_003534.2.
+DR   RefSeq; NP_003526.1; NM_003535.2.
+DR   RefSeq; NP_003527.1; NM_003536.2.
+DR   RefSeq; NP_003528.1; NM_003537.3.
+DR   RefSeq; NP_066298.1; NM_021018.2.
+DR   UniGene; Hs.132854; -.
+DR   UniGene; Hs.247813; -.
+DR   UniGene; Hs.247814; -.
+DR   UniGene; Hs.248176; -.
+DR   UniGene; Hs.443021; -.
+DR   UniGene; Hs.484990; -.
+DR   UniGene; Hs.532144; -.
+DR   UniGene; Hs.533292; -.
+DR   UniGene; Hs.546315; -.
+DR   UniGene; Hs.586261; -.
+DR   UniGene; Hs.591778; -.
+DR   UniGene; Hs.626666; -.
+DR   PDB; 1CS9; NMR; -; A=131-136.
+DR   PDB; 1CT6; NMR; -; A=131-136.
+DR   PDB; 1O9S; X-ray; 1.75 A; K/L=2-10.
+DR   PDB; 1Q3L; X-ray; 1.64 A; P=2-16.
+DR   PDB; 2B2T; X-ray; 2.45 A; D=2-20.
+DR   PDB; 2B2U; X-ray; 2.95 A; D=2-16.
+DR   PDB; 2B2V; X-ray; 2.65 A; D=2-16.
+DR   PDB; 2B2W; X-ray; 2.40 A; D=2-20.
+DR   PDB; 2C1J; X-ray; 2.60 A; C/D=8-15.
+DR   PDB; 2C1N; X-ray; 2.00 A; C/E=8-15.
+DR   PDB; 2CO0; X-ray; 2.25 A; B/D=2-16.
+DR   PDB; 2CV5; X-ray; 2.50 A; A/E=1-136.
+DR   PDB; 2KWJ; NMR; -; B=2-21.
+DR   PDB; 2KWK; NMR; -; B=2-21.
+DR   PDB; 2L75; NMR; -; B=2-14.
+DR   PDB; 2LBM; NMR; -; C=2-16.
+DR   PDB; 2M0O; NMR; -; B=32-42.
+DR   PDB; 2NDF; NMR; -; B=13-25.
+DR   PDB; 2NDG; NMR; -; B=13-25.
+DR   PDB; 2OQ6; X-ray; 2.00 A; C/D=8-15.
+DR   PDB; 2OT7; X-ray; 2.14 A; C/D=8-15.
+DR   PDB; 2OX0; X-ray; 1.95 A; C/D=8-15.
+DR   PDB; 2RI7; X-ray; 1.45 A; P=2-10.
+DR   PDB; 2UXN; X-ray; 2.72 A; E=2-22.
+DR   PDB; 2V85; X-ray; 2.00 A; D/E=2-13.
+DR   PDB; 2V89; X-ray; 1.10 A; D/E=2-10.
+DR   PDB; 2VNF; X-ray; 1.76 A; B/D=2-11.
+DR   PDB; 2VPG; X-ray; 1.60 A; P/R=2-19.
+DR   PDB; 2X0L; X-ray; 3.00 A; C=6-17.
+DR   PDB; 3A1B; X-ray; 2.29 A; A=2-21.
+DR   PDB; 3AFA; X-ray; 2.50 A; A/E=1-136.
+DR   PDB; 3AVR; X-ray; 1.80 A; B=18-39.
+DR   PDB; 3AYW; X-ray; 2.90 A; A/E=1-136.
+DR   PDB; 3AZE; X-ray; 3.00 A; A/E=1-136.
+DR   PDB; 3AZF; X-ray; 2.70 A; A/E=1-136.
+DR   PDB; 3AZG; X-ray; 2.40 A; A/E=1-136.
+DR   PDB; 3AZH; X-ray; 3.49 A; A/E=1-136.
+DR   PDB; 3AZI; X-ray; 2.70 A; A/E=1-136.
+DR   PDB; 3AZJ; X-ray; 2.89 A; A/E=1-136.
+DR   PDB; 3AZK; X-ray; 3.20 A; A/E=1-136.
+DR   PDB; 3AZL; X-ray; 2.70 A; A/E=1-136.
+DR   PDB; 3AZM; X-ray; 2.89 A; A/E=1-136.
+DR   PDB; 3AZN; X-ray; 3.00 A; A/E=1-136.
+DR   PDB; 3B95; X-ray; 2.99 A; P=2-16.
+DR   PDB; 3KMT; X-ray; 1.78 A; G/H/I=26-33.
+DR   PDB; 3KQI; X-ray; 1.78 A; B=2-13.
+DR   PDB; 3LQI; X-ray; 1.92 A; R/S/T=2-10.
+DR   PDB; 3LQJ; X-ray; 1.90 A; Q/T=2-10.
+DR   PDB; 3MP1; X-ray; 2.60 A; P=2-6.
+DR   PDB; 3O34; X-ray; 1.90 A; B=14-33.
+DR   PDB; 3O35; X-ray; 1.76 A; D/E=24-32.
+DR   PDB; 3O37; X-ray; 2.00 A; E/F/G/H=2-11.
+DR   PDB; 3QJ6; X-ray; 2.30 A; T=74-84.
+DR   PDB; 3RIG; X-ray; 2.00 A; C/D=5-16.
+DR   PDB; 3RIY; X-ray; 1.55 A; C/D=5-16.
+DR   PDB; 3SOU; X-ray; 1.80 A; D/E=2-10.
+DR   PDB; 3SOW; X-ray; 1.95 A; C/D=2-10.
+DR   PDB; 3U31; X-ray; 2.20 A; B=5-14.
+DR   PDB; 3U3D; X-ray; 2.40 A; B=5-14.
+DR   PDB; 3U4S; X-ray; 2.15 A; C/D=8-15.
+DR   PDB; 3U5N; X-ray; 1.95 A; C/D=2-21.
+DR   PDB; 3U5O; X-ray; 2.70 A; I/J/K/L/M/N/O/P=2-23.
+DR   PDB; 3U5P; X-ray; 2.80 A; I/J/K/L/M/N/O/P=2-29.
+DR   PDB; 3UEE; X-ray; 2.61 A; B/D=2-13.
+DR   PDB; 3UEF; X-ray; 2.45 A; B/D=2-13.
+DR   PDB; 3UIG; X-ray; 2.40 A; P/Q=2-16.
+DR   PDB; 3UII; X-ray; 2.60 A; P/Q=2-11.
+DR   PDB; 3UIK; X-ray; 2.70 A; P/Q=2-11.
+DR   PDB; 3V43; X-ray; 1.47 A; Q=2-19.
+DR   PDB; 3W96; X-ray; 3.00 A; A/E=1-136.
+DR   PDB; 3W97; X-ray; 3.20 A; A/E=1-136.
+DR   PDB; 3W98; X-ray; 3.42 A; A/E=29-136.
+DR   PDB; 3W99; X-ray; 3.00 A; A/E=1-136.
+DR   PDB; 3WA9; X-ray; 3.07 A; A/E=1-136.
+DR   PDB; 3WAA; X-ray; 3.20 A; A/E=1-136.
+DR   PDB; 3WKJ; X-ray; 2.80 A; A/E=1-136.
+DR   PDB; 3X1S; X-ray; 2.81 A; A/E=2-136.
+DR   PDB; 3X1T; X-ray; 2.81 A; A/E=2-136.
+DR   PDB; 3X1U; X-ray; 3.25 A; A/E=2-136.
+DR   PDB; 3X1V; X-ray; 2.92 A; A/E=2-136.
+DR   PDB; 3ZG6; X-ray; 2.20 A; F=5-14.
+DR   PDB; 3ZVY; X-ray; 1.95 A; C/D=2-9.
+DR   PDB; 4A0J; X-ray; 2.80 A; C/D=2-7.
+DR   PDB; 4A0N; X-ray; 2.74 A; C=2-7.
+DR   PDB; 4A7J; X-ray; 1.90 A; B=1-16.
+DR   PDB; 4BD3; NMR; -; B=32-42.
+DR   PDB; 4C1Q; X-ray; 2.30 A; C=2-10.
+DR   PDB; 4F4U; X-ray; 2.00 A; C/D=5-16.
+DR   PDB; 4F56; X-ray; 1.70 A; C/D=5-16.
+DR   PDB; 4FWF; X-ray; 2.70 A; E=2-21.
+DR   PDB; 4HON; X-ray; 1.80 A; F/G=7-16.
+DR   PDB; 4I51; X-ray; 1.90 A; C/D=4-12.
+DR   PDB; 4L7X; X-ray; 1.35 A; U=2-13.
+DR   PDB; 4LK9; X-ray; 1.60 A; B=2-22.
+DR   PDB; 4LKA; X-ray; 1.61 A; B=2-22.
+DR   PDB; 4LLB; X-ray; 2.50 A; C/D=2-22.
+DR   PDB; 4LXL; X-ray; 1.87 A; D=8-15.
+DR   PDB; 4N4H; X-ray; 2.30 A; B=22-43.
+DR   PDB; 4QBQ; X-ray; 2.41 A; P=2-9.
+DR   PDB; 4QBR; X-ray; 1.90 A; E/P=2-8.
+DR   PDB; 4QBS; X-ray; 1.80 A; P=2-8.
+DR   PDB; 4TN7; X-ray; 2.20 A; E/F=30-44.
+DR   PDB; 4U68; X-ray; 1.80 A; D/E/F=5-15.
+DR   PDB; 4UP0; X-ray; 1.28 A; F=2-16.
+DR   PDB; 4UY4; X-ray; 1.86 A; C/D=2-7.
+DR   PDB; 4X3K; X-ray; 1.45 A; C/D=24-30.
+DR   PDB; 4Y6L; X-ray; 1.60 A; C/D=7-13.
+DR   PDB; 4YHP; X-ray; 2.53 A; P/Q=2-17.
+DR   PDB; 4YHZ; X-ray; 2.30 A; P=2-13.
+DR   PDB; 4YM5; X-ray; 4.00 A; A/E=1-136.
+DR   PDB; 4YM6; X-ray; 3.51 A; A/E=1-136.
+DR   PDB; 4Z0R; X-ray; 1.75 A; D=2-16.
+DR   PDB; 4Z2M; X-ray; 2.98 A; G/I=35-136.
+DR   PDB; 5AV5; X-ray; 2.40 A; A/E=1-136.
+DR   PDB; 5AV6; X-ray; 2.20 A; A/E=1-136.
+DR   PDB; 5AV8; X-ray; 2.20 A; A/E=1-136.
+DR   PDB; 5AV9; X-ray; 2.20 A; A/E=1-136.
+DR   PDB; 5AVB; X-ray; 2.40 A; A/E=1-136.
+DR   PDB; 5AVC; X-ray; 2.40 A; A/E=1-136.
+DR   PDB; 5B24; X-ray; 3.60 A; A/E=1-136.
+DR   PDB; 5B2I; X-ray; 3.00 A; A/E=1-136.
+DR   PDB; 5B2J; X-ray; 2.60 A; A/E=1-136.
+DR   PDB; 5B31; X-ray; 2.20 A; A/E=1-136.
+DR   PDB; 5C11; X-ray; 2.80 A; B=2-11.
+DR   PDB; 5C13; X-ray; 2.10 A; D/F/H/P=2-11.
+DR   PDB; 5C3I; X-ray; 3.50 A; B/F/J/N/R/V=1-136.
+DR   PDB; 5CPI; X-ray; 2.90 A; A/E=1-136.
+DR   PDB; 5CPJ; X-ray; 3.15 A; A/E=1-136.
+DR   PDB; 5CPK; X-ray; 2.63 A; A/E=1-136.
+DR   PDB; 5D6Y; X-ray; 2.29 A; a/b/c/d=20-29.
+DR   PDB; 5DAH; X-ray; 2.61 A; C/D=20-30.
+DR   PDB; 5FB0; X-ray; 2.70 A; D/F=2-16.
+DR   PDB; 5FB1; X-ray; 2.10 A; C=2-16.
+DR   PDB; 5FFV; X-ray; 1.30 A; C/D=10-20.
+DR   PDB; 5GH9; X-ray; 1.45 A; B=45-58.
+DR   PDB; 5GSE; X-ray; 3.14 A; A/E/K/O=1-136.
+DR   PDB; 5GSU; X-ray; 3.10 A; A/E=2-136.
+DR   PDB; 5GT0; X-ray; 2.82 A; A/E=2-136.
+DR   PDB; 5GT3; X-ray; 2.91 A; A/E=2-136.
+DR   PDB; 5GTC; X-ray; 2.70 A; A/E=1-136.
+DR   PDB; 5H6Q; X-ray; 2.53 A; C=2-21.
+DR   PDB; 5H6R; X-ray; 2.60 A; C=2-21.
+DR   PDB; 5HJB; X-ray; 2.70 A; B=4-9.
+DR   PDB; 5HJC; X-ray; 2.60 A; B=16-24.
+DR   PDB; 5HJD; X-ray; 2.81 A; B/D/F/H/I/J/L/M=15-21.
+DR   PDB; 5HYN; X-ray; 2.95 A; D/I/O/T=22-34.
+DR   PDB; 5IQL; X-ray; 2.10 A; B=25-32.
+DR   PDB; 5J3V; X-ray; 3.05 A; C/D=12-28.
+DR   PDB; 5J9S; X-ray; 2.70 A; B=16-40.
+DR   PDB; 5JHN; X-ray; 1.67 A; F/G=4-14.
+DR   PDB; 5JIN; X-ray; 1.85 A; F/G=4-14.
+DR   PDB; 5JIY; X-ray; 1.48 A; F/G=4-14.
+DR   PDB; 5JJ0; X-ray; 1.72 A; F/G=4-14.
+DR   PDB; 5JRG; X-ray; 2.50 A; A/E=1-136.
+DR   PDB; 5KJH; X-ray; 2.27 A; D=23-33, E=19-38.
+DR   PDB; 5KJI; X-ray; 2.71 A; E=19-38.
+DR   PDB; 5KKL; X-ray; 2.94 A; B=23-27.
+DR   PDB; 5LUG; X-ray; 1.70 A; E/F/G/H=2-11.
+DR   PDB; 5M5G; X-ray; 2.27 A; D=23-33.
+DR   PDB; 5MR8; X-ray; 1.74 A; C=2-10.
+DR   PDB; 5NNC; X-ray; 2.22 A; C/D=5-21.
+DR   PDB; 5NND; X-ray; 1.82 A; D/E=5-21.
+DR   PDB; 5OY3; X-ray; 2.14 A; B=18-34.
+DR   PDB; 5SVX; X-ray; 1.56 A; B=2-12.
+DR   PDB; 5SVY; X-ray; 1.05 A; B=2-12.
+DR   PDB; 5SZB; X-ray; 1.20 A; H=2-19.
+DR   PDB; 5SZC; X-ray; 1.19 A; H=2-19.
+DR   PDB; 5T0K; X-ray; 1.70 A; P/Q=2-16.
+DR   PDB; 5T0M; X-ray; 1.90 A; C/P=2-16.
+DR   PDB; 5T1G; X-ray; 1.90 A; B=39-53.
+DR   PDB; 5T1I; X-ray; 1.60 A; C=39-53.
+DR   PDB; 5T8R; X-ray; 2.40 A; E/G=2-11.
+DR   PDB; 5TBN; NMR; -; C=2-12.
+DR   PDB; 5TDR; X-ray; 1.42 A; B=2-12.
+DR   PDB; 5TDW; X-ray; 1.70 A; B=2-12.
+DR   PDB; 5U2J; X-ray; 1.60 A; C/D=2-17.
+DR   PDB; 5V21; X-ray; 2.42 A; B=30-44.
+DR   PDB; 5V22; X-ray; 2.40 A; B=30-44.
+DR   PDB; 5VA6; X-ray; 2.40 A; C/D=20-37.
+DR   PDB; 5VAB; X-ray; 1.70 A; F=2-11.
+DR   PDB; 5VGE; X-ray; 2.60 A; C=41-49.
+DR   PDB; 5VNB; X-ray; 2.40 A; K=22-31.
+DR   PDB; 5WFC; X-ray; 2.28 A; D=23-33.
+DR   PDB; 5WLE; X-ray; 1.95 A; C=2-13.
+DR   PDB; 5WVO; X-ray; 2.00 A; D=2-37.
+DR   PDB; 5WXG; X-ray; 1.70 A; P=2-8.
+DR   PDB; 5WXH; X-ray; 1.30 A; D/P=2-8.
+DR   PDB; 5WYI; X-ray; 2.00 A; E=120-127.
+DR   PDB; 5X60; X-ray; 2.69 A; C=2-21.
+DR   PDB; 5XF3; X-ray; 2.60 A; A/E=1-136.
+DR   PDB; 5XF4; X-ray; 2.87 A; A/E=1-136.
+DR   PDB; 5XF5; X-ray; 2.82 A; A/E=1-136.
+DR   PDB; 5XFQ; X-ray; 2.40 A; E/F=30-42.
+DR   PDB; 5XFR; X-ray; 2.25 A; C/D=34-41.
+DR   PDB; 5XNV; X-ray; 2.70 A; B=25-32.
+DR   PDB; 5XTZ; X-ray; 2.10 A; E=23-32.
+DR   PDB; 5Y0C; X-ray; 2.09 A; A/E=1-136.
+DR   PDB; 5Y0D; X-ray; 1.99 A; A/E=1-136.
+DR   PDB; 5Y20; X-ray; 2.41 A; P=2-8.
+DR   PDB; 5Z30; X-ray; 2.45 A; A/E=1-136.
+DR   PDB; 6AXJ; X-ray; 2.38 A; E/F/G/H=22-32.
+DR   PDB; 6BHD; X-ray; 1.25 A; B=4-20.
+DR   PDB; 6BHE; X-ray; 1.35 A; B=4-20.
+DR   PDB; 6BHG; X-ray; 1.45 A; B=4-20.
+DR   PDB; 6BHH; X-ray; 1.85 A; B=4-20.
+DR   PDB; 6BHI; X-ray; 1.40 A; B=5-20.
+DR   PDB; 6HKT; X-ray; 9.70 A; A/E/K/O/U/Y/a/e/k/o/u/y=1-136.
+DR   PDB; 6HTS; EM; 4.80 A; I/M=1-136.
+DR   PDBsum; 1CS9; -.
+DR   PDBsum; 1CT6; -.
+DR   PDBsum; 1O9S; -.
+DR   PDBsum; 1Q3L; -.
+DR   PDBsum; 2B2T; -.
+DR   PDBsum; 2B2U; -.
+DR   PDBsum; 2B2V; -.
+DR   PDBsum; 2B2W; -.
+DR   PDBsum; 2C1J; -.
+DR   PDBsum; 2C1N; -.
+DR   PDBsum; 2CO0; -.
+DR   PDBsum; 2CV5; -.
+DR   PDBsum; 2KWJ; -.
+DR   PDBsum; 2KWK; -.
+DR   PDBsum; 2L75; -.
+DR   PDBsum; 2LBM; -.
+DR   PDBsum; 2M0O; -.
+DR   PDBsum; 2NDF; -.
+DR   PDBsum; 2NDG; -.
+DR   PDBsum; 2OQ6; -.
+DR   PDBsum; 2OT7; -.
+DR   PDBsum; 2OX0; -.
+DR   PDBsum; 2RI7; -.
+DR   PDBsum; 2UXN; -.
+DR   PDBsum; 2V85; -.
+DR   PDBsum; 2V89; -.
+DR   PDBsum; 2VNF; -.
+DR   PDBsum; 2VPG; -.
+DR   PDBsum; 2X0L; -.
+DR   PDBsum; 3A1B; -.
+DR   PDBsum; 3AFA; -.
+DR   PDBsum; 3AVR; -.
+DR   PDBsum; 3AYW; -.
+DR   PDBsum; 3AZE; -.
+DR   PDBsum; 3AZF; -.
+DR   PDBsum; 3AZG; -.
+DR   PDBsum; 3AZH; -.
+DR   PDBsum; 3AZI; -.
+DR   PDBsum; 3AZJ; -.
+DR   PDBsum; 3AZK; -.
+DR   PDBsum; 3AZL; -.
+DR   PDBsum; 3AZM; -.
+DR   PDBsum; 3AZN; -.
+DR   PDBsum; 3B95; -.
+DR   PDBsum; 3KMT; -.
+DR   PDBsum; 3KQI; -.
+DR   PDBsum; 3LQI; -.
+DR   PDBsum; 3LQJ; -.
+DR   PDBsum; 3MP1; -.
+DR   PDBsum; 3O34; -.
+DR   PDBsum; 3O35; -.
+DR   PDBsum; 3O37; -.
+DR   PDBsum; 3QJ6; -.
+DR   PDBsum; 3RIG; -.
+DR   PDBsum; 3RIY; -.
+DR   PDBsum; 3SOU; -.
+DR   PDBsum; 3SOW; -.
+DR   PDBsum; 3U31; -.
+DR   PDBsum; 3U3D; -.
+DR   PDBsum; 3U4S; -.
+DR   PDBsum; 3U5N; -.
+DR   PDBsum; 3U5O; -.
+DR   PDBsum; 3U5P; -.
+DR   PDBsum; 3UEE; -.
+DR   PDBsum; 3UEF; -.
+DR   PDBsum; 3UIG; -.
+DR   PDBsum; 3UII; -.
+DR   PDBsum; 3UIK; -.
+DR   PDBsum; 3V43; -.
+DR   PDBsum; 3W96; -.
+DR   PDBsum; 3W97; -.
+DR   PDBsum; 3W98; -.
+DR   PDBsum; 3W99; -.
+DR   PDBsum; 3WA9; -.
+DR   PDBsum; 3WAA; -.
+DR   PDBsum; 3WKJ; -.
+DR   PDBsum; 3X1S; -.
+DR   PDBsum; 3X1T; -.
+DR   PDBsum; 3X1U; -.
+DR   PDBsum; 3X1V; -.
+DR   PDBsum; 3ZG6; -.
+DR   PDBsum; 3ZVY; -.
+DR   PDBsum; 4A0J; -.
+DR   PDBsum; 4A0N; -.
+DR   PDBsum; 4A7J; -.
+DR   PDBsum; 4BD3; -.
+DR   PDBsum; 4C1Q; -.
+DR   PDBsum; 4F4U; -.
+DR   PDBsum; 4F56; -.
+DR   PDBsum; 4FWF; -.
+DR   PDBsum; 4HON; -.
+DR   PDBsum; 4I51; -.
+DR   PDBsum; 4L7X; -.
+DR   PDBsum; 4LK9; -.
+DR   PDBsum; 4LKA; -.
+DR   PDBsum; 4LLB; -.
+DR   PDBsum; 4LXL; -.
+DR   PDBsum; 4N4H; -.
+DR   PDBsum; 4QBQ; -.
+DR   PDBsum; 4QBR; -.
+DR   PDBsum; 4QBS; -.
+DR   PDBsum; 4TN7; -.
+DR   PDBsum; 4U68; -.
+DR   PDBsum; 4UP0; -.
+DR   PDBsum; 4UY4; -.
+DR   PDBsum; 4X3K; -.
+DR   PDBsum; 4Y6L; -.
+DR   PDBsum; 4YHP; -.
+DR   PDBsum; 4YHZ; -.
+DR   PDBsum; 4YM5; -.
+DR   PDBsum; 4YM6; -.
+DR   PDBsum; 4Z0R; -.
+DR   PDBsum; 4Z2M; -.
+DR   PDBsum; 5AV5; -.
+DR   PDBsum; 5AV6; -.
+DR   PDBsum; 5AV8; -.
+DR   PDBsum; 5AV9; -.
+DR   PDBsum; 5AVB; -.
+DR   PDBsum; 5AVC; -.
+DR   PDBsum; 5B24; -.
+DR   PDBsum; 5B2I; -.
+DR   PDBsum; 5B2J; -.
+DR   PDBsum; 5B31; -.
+DR   PDBsum; 5C11; -.
+DR   PDBsum; 5C13; -.
+DR   PDBsum; 5C3I; -.
+DR   PDBsum; 5CPI; -.
+DR   PDBsum; 5CPJ; -.
+DR   PDBsum; 5CPK; -.
+DR   PDBsum; 5D6Y; -.
+DR   PDBsum; 5DAH; -.
+DR   PDBsum; 5FB0; -.
+DR   PDBsum; 5FB1; -.
+DR   PDBsum; 5FFV; -.
+DR   PDBsum; 5GH9; -.
+DR   PDBsum; 5GSE; -.
+DR   PDBsum; 5GSU; -.
+DR   PDBsum; 5GT0; -.
+DR   PDBsum; 5GT3; -.
+DR   PDBsum; 5GTC; -.
+DR   PDBsum; 5H6Q; -.
+DR   PDBsum; 5H6R; -.
+DR   PDBsum; 5HJB; -.
+DR   PDBsum; 5HJC; -.
+DR   PDBsum; 5HJD; -.
+DR   PDBsum; 5HYN; -.
+DR   PDBsum; 5IQL; -.
+DR   PDBsum; 5J3V; -.
+DR   PDBsum; 5J9S; -.
+DR   PDBsum; 5JHN; -.
+DR   PDBsum; 5JIN; -.
+DR   PDBsum; 5JIY; -.
+DR   PDBsum; 5JJ0; -.
+DR   PDBsum; 5JRG; -.
+DR   PDBsum; 5KJH; -.
+DR   PDBsum; 5KJI; -.
+DR   PDBsum; 5KKL; -.
+DR   PDBsum; 5LUG; -.
+DR   PDBsum; 5M5G; -.
+DR   PDBsum; 5MR8; -.
+DR   PDBsum; 5NNC; -.
+DR   PDBsum; 5NND; -.
+DR   PDBsum; 5OY3; -.
+DR   PDBsum; 5SVX; -.
+DR   PDBsum; 5SVY; -.
+DR   PDBsum; 5SZB; -.
+DR   PDBsum; 5SZC; -.
+DR   PDBsum; 5T0K; -.
+DR   PDBsum; 5T0M; -.
+DR   PDBsum; 5T1G; -.
+DR   PDBsum; 5T1I; -.
+DR   PDBsum; 5T8R; -.
+DR   PDBsum; 5TBN; -.
+DR   PDBsum; 5TDR; -.
+DR   PDBsum; 5TDW; -.
+DR   PDBsum; 5U2J; -.
+DR   PDBsum; 5V21; -.
+DR   PDBsum; 5V22; -.
+DR   PDBsum; 5VA6; -.
+DR   PDBsum; 5VAB; -.
+DR   PDBsum; 5VGE; -.
+DR   PDBsum; 5VNB; -.
+DR   PDBsum; 5WFC; -.
+DR   PDBsum; 5WLE; -.
+DR   PDBsum; 5WVO; -.
+DR   PDBsum; 5WXG; -.
+DR   PDBsum; 5WXH; -.
+DR   PDBsum; 5WYI; -.
+DR   PDBsum; 5X60; -.
+DR   PDBsum; 5XF3; -.
+DR   PDBsum; 5XF4; -.
+DR   PDBsum; 5XF5; -.
+DR   PDBsum; 5XFQ; -.
+DR   PDBsum; 5XFR; -.
+DR   PDBsum; 5XNV; -.
+DR   PDBsum; 5XTZ; -.
+DR   PDBsum; 5Y0C; -.
+DR   PDBsum; 5Y0D; -.
+DR   PDBsum; 5Y20; -.
+DR   PDBsum; 5Z30; -.
+DR   PDBsum; 6AXJ; -.
+DR   PDBsum; 6BHD; -.
+DR   PDBsum; 6BHE; -.
+DR   PDBsum; 6BHG; -.
+DR   PDBsum; 6BHH; -.
+DR   PDBsum; 6BHI; -.
+DR   PDBsum; 6HKT; -.
+DR   PDBsum; 6HTS; -.
+DR   ProteinModelPortal; P68431; -.
+DR   SMR; P68431; -.
+DR   BioGrid; 113946; 323.
+DR   BioGrid; 113947; 6.
+DR   BioGrid; 113948; 13.
+DR   BioGrid; 113949; 201.
+DR   BioGrid; 113950; 6.
+DR   BioGrid; 113951; 7.
+DR   BioGrid; 113952; 5.
+DR   BioGrid; 113953; 9.
+DR   BioGrid; 113954; 24.
+DR   BioGrid; 114458; 9.
+DR   CORUM; P68431; -.
+DR   DIP; DIP-29371N; -.
+DR   ELM; P68431; -.
+DR   IntAct; P68431; 431.
+DR   MINT; P68431; -.
+DR   STRING; 9606.ENSP00000444823; -.
+DR   iPTMnet; P68431; -.
+DR   PhosphoSitePlus; P68431; -.
+DR   SwissPalm; P68431; -.
+DR   BioMuta; HIST1H3A; -.
+DR   DMDM; 55977055; -.
+DR   EPD; P68431; -.
+DR   jPOST; P68431; -.
+DR   MaxQB; P68431; -.
+DR   PaxDb; P68431; -.
+DR   PeptideAtlas; P68431; -.
+DR   PRIDE; P68431; -.
+DR   ProteomicsDB; 57541; -.
+DR   TopDownProteomics; P68431; -.
+DR   DNASU; 8350; -.
+DR   DNASU; 8352; -.
+DR   DNASU; 8353; -.
+DR   DNASU; 8355; -.
+DR   DNASU; 8356; -.
+DR   DNASU; 8357; -.
+DR   Ensembl; ENST00000356476; ENSP00000366999; ENSG00000197409.
+DR   Ensembl; ENST00000359303; ENSP00000352252; ENSG00000197153.
+DR   Ensembl; ENST00000369163; ENSP00000358160; ENSG00000278828.
+DR   Ensembl; ENST00000612966; ENSP00000484658; ENSG00000278272.
+DR   Ensembl; ENST00000613854; ENSP00000480826; ENSG00000275714.
+DR   Ensembl; ENST00000614378; ENSP00000484638; ENSG00000273983.
+DR   Ensembl; ENST00000614911; ENSP00000482271; ENSG00000274750.
+DR   Ensembl; ENST00000616365; ENSP00000483283; ENSG00000275379.
+DR   Ensembl; ENST00000618052; ENSP00000484095; ENSG00000277775.
+DR   Ensembl; ENST00000621411; ENSP00000484841; ENSG00000274267.
+DR   Ensembl; ENST00000634733; ENSP00000489282; ENSG00000274750.
+DR   GeneID; 8350; -.
+DR   GeneID; 8351; -.
+DR   GeneID; 8352; -.
+DR   GeneID; 8353; -.
+DR   GeneID; 8354; -.
+DR   GeneID; 8355; -.
+DR   GeneID; 8356; -.
+DR   GeneID; 8357; -.
+DR   GeneID; 8358; -.
+DR   GeneID; 8968; -.
+DR   KEGG; hsa:8350; -.
+DR   KEGG; hsa:8351; -.
+DR   KEGG; hsa:8352; -.
+DR   KEGG; hsa:8353; -.
+DR   KEGG; hsa:8354; -.
+DR   KEGG; hsa:8355; -.
+DR   KEGG; hsa:8356; -.
+DR   KEGG; hsa:8357; -.
+DR   KEGG; hsa:8358; -.
+DR   KEGG; hsa:8968; -.
+DR   UCSC; uc003nfp.2; human.
+DR   CTD; 8350; -.
+DR   CTD; 8351; -.
+DR   CTD; 8352; -.
+DR   CTD; 8353; -.
+DR   CTD; 8354; -.
+DR   CTD; 8355; -.
+DR   CTD; 8356; -.
+DR   CTD; 8357; -.
+DR   CTD; 8358; -.
+DR   CTD; 8968; -.
+DR   DisGeNET; 8350; -.
+DR   DisGeNET; 8351; -.
+DR   DisGeNET; 8352; -.
+DR   DisGeNET; 8353; -.
+DR   DisGeNET; 8354; -.
+DR   DisGeNET; 8355; -.
+DR   DisGeNET; 8356; -.
+DR   DisGeNET; 8357; -.
+DR   DisGeNET; 8358; -.
+DR   DisGeNET; 8968; -.
+DR   EuPathDB; HostDB:ENSG00000197153.4; -.
+DR   EuPathDB; HostDB:ENSG00000197409.7; -.
+DR   EuPathDB; HostDB:ENSG00000273983.1; -.
+DR   EuPathDB; HostDB:ENSG00000274267.1; -.
+DR   EuPathDB; HostDB:ENSG00000274750.2; -.
+DR   EuPathDB; HostDB:ENSG00000275379.1; -.
+DR   EuPathDB; HostDB:ENSG00000275714.1; -.
+DR   EuPathDB; HostDB:ENSG00000277775.1; -.
+DR   EuPathDB; HostDB:ENSG00000278272.1; -.
+DR   EuPathDB; HostDB:ENSG00000278828.1; -.
+DR   GeneCards; HIST1H3A; -.
+DR   GeneCards; HIST1H3B; -.
+DR   GeneCards; HIST1H3C; -.
+DR   GeneCards; HIST1H3D; -.
+DR   GeneCards; HIST1H3E; -.
+DR   GeneCards; HIST1H3F; -.
+DR   GeneCards; HIST1H3G; -.
+DR   GeneCards; HIST1H3H; -.
+DR   GeneCards; HIST1H3I; -.
+DR   GeneCards; HIST1H3J; -.
+DR   HGNC; HGNC:4766; HIST1H3A.
+DR   HGNC; HGNC:4776; HIST1H3B.
+DR   HGNC; HGNC:4768; HIST1H3C.
+DR   HGNC; HGNC:4767; HIST1H3D.
+DR   HGNC; HGNC:4769; HIST1H3E.
+DR   HGNC; HGNC:4773; HIST1H3F.
+DR   HGNC; HGNC:4772; HIST1H3G.
+DR   HGNC; HGNC:4775; HIST1H3H.
+DR   HGNC; HGNC:4771; HIST1H3I.
+DR   HGNC; HGNC:4774; HIST1H3J.
+DR   HPA; CAB070190; -.
+DR   HPA; HPA042570; -.
+DR   MalaCards; HIST1H3A; -.
+DR   MIM; 137800; phenotype.
+DR   MIM; 602810; gene.
+DR   MIM; 602811; gene.
+DR   MIM; 602812; gene.
+DR   MIM; 602813; gene.
+DR   MIM; 602814; gene.
+DR   MIM; 602815; gene.
+DR   MIM; 602816; gene.
+DR   MIM; 602817; gene.
+DR   MIM; 602818; gene.
+DR   MIM; 602819; gene.
+DR   neXtProt; NX_P68431; -.
+DR   OpenTargets; ENSG00000197153; -.
+DR   OpenTargets; ENSG00000197409; -.
+DR   OpenTargets; ENSG00000273983; -.
+DR   OpenTargets; ENSG00000274267; -.
+DR   OpenTargets; ENSG00000274750; -.
+DR   OpenTargets; ENSG00000275379; -.
+DR   OpenTargets; ENSG00000275714; -.
+DR   OpenTargets; ENSG00000277775; -.
+DR   OpenTargets; ENSG00000278272; -.
+DR   OpenTargets; ENSG00000278828; -.
+DR   PharmGKB; PA29148; -.
+DR   eggNOG; KOG1745; Eukaryota.
+DR   eggNOG; COG2036; LUCA.
+DR   GeneTree; ENSGT00940000153149; -.
+DR   GeneTree; ENSGT00940000153611; -.
+DR   HOVERGEN; HBG001172; -.
+DR   InParanoid; P68431; -.
+DR   KO; K11253; -.
+DR   OMA; ASEAYYL; -.
+DR   OrthoDB; 1564596at2759; -.
+DR   PhylomeDB; P68431; -.
+DR   TreeFam; TF314241; -.
+DR   Reactome; R-HSA-1266695; Interleukin-7 signaling.
+DR   Reactome; R-HSA-1912408; Pre-NOTCH Transcription and Translation.
+DR   Reactome; R-HSA-201722; Formation of the beta-catenin:TCF transactivating complex.
+DR   Reactome; R-HSA-212300; PRC2 methylates histones and DNA.
+DR   Reactome; R-HSA-2299718; Condensation of Prophase Chromosomes.
+DR   Reactome; R-HSA-2559580; Oxidative Stress Induced Senescence.
+DR   Reactome; R-HSA-2559582; Senescence-Associated Secretory Phenotype (SASP).
+DR   Reactome; R-HSA-3214815; HDACs deacetylate histones.
+DR   Reactome; R-HSA-3214841; PKMTs methylate histone lysines.
+DR   Reactome; R-HSA-3214842; HDMs demethylate histones.
+DR   Reactome; R-HSA-3214847; HATs acetylate histones.
+DR   Reactome; R-HSA-3214858; RMTs methylate histone arginines.
+DR   Reactome; R-HSA-3247509; Chromatin modifying enzymes.
+DR   Reactome; R-HSA-427359; SIRT1 negatively regulates rRNA expression.
+DR   Reactome; R-HSA-427389; ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression.
+DR   Reactome; R-HSA-427413; NoRC negatively regulates rRNA expression.
+DR   Reactome; R-HSA-5250924; B-WICH complex positively regulates rRNA expression.
+DR   Reactome; R-HSA-5334118; DNA methylation.
+DR   Reactome; R-HSA-5578749; Transcriptional regulation by small RNAs.
+DR   Reactome; R-HSA-5617472; Activation of anterior HOX genes in hindbrain development during early embryogenesis.
+DR   Reactome; R-HSA-5625886; Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3.
+DR   Reactome; R-HSA-73728; RNA Polymerase I Promoter Opening.
+DR   Reactome; R-HSA-73777; RNA Polymerase I Chain Elongation.
+DR   Reactome; R-HSA-8936459; RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function.
+DR   Reactome; R-HSA-8939236; RUNX1 regulates transcription of genes involved in differentiation of HSCs.
+DR   Reactome; R-HSA-9018519; Estrogen-dependent gene expression.
+DR   Reactome; R-HSA-912446; Meiotic recombination.
+DR   Reactome; R-HSA-977225; Amyloid fiber formation.
+DR   Reactome; R-HSA-983231; Factors involved in megakaryocyte development and platelet production.
+DR   SIGNOR; P68431; -.
+DR   ChiTaRS; HIST1H3B; human.
+DR   ChiTaRS; HIST1H3F; human.
+DR   EvolutionaryTrace; P68431; -.
+DR   GeneWiki; HIST1H3A; -.
+DR   GeneWiki; HIST1H3B; -.
+DR   GeneWiki; HIST1H3C; -.
+DR   GeneWiki; HIST1H3D; -.
+DR   GeneWiki; HIST1H3E; -.
+DR   GeneWiki; HIST1H3F; -.
+DR   GeneWiki; HIST1H3G; -.
+DR   GeneWiki; HIST1H3H; -.
+DR   GeneWiki; HIST1H3I; -.
+DR   GeneWiki; HIST1H3J; -.
+DR   PRO; PR:P68431; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   Bgee; ENSG00000197153; Expressed in 43 organ(s), highest expression level in stomach.
+DR   CleanEx; HS_HIST1H3A; -.
+DR   CleanEx; HS_HIST1H3B; -.
+DR   CleanEx; HS_HIST1H3C; -.
+DR   CleanEx; HS_HIST1H3D; -.
+DR   CleanEx; HS_HIST1H3E; -.
+DR   CleanEx; HS_HIST1H3F; -.
+DR   CleanEx; HS_HIST1H3G; -.
+DR   CleanEx; HS_HIST1H3H; -.
+DR   CleanEx; HS_HIST1H3I; -.
+DR   Genevisible; P68431; HS.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0000228; C:nuclear chromosome; IDA:UniProtKB.
+DR   GO; GO:0000788; C:nuclear nucleosome; IDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; TAS:Reactome.
+DR   GO; GO:0000786; C:nucleosome; IDA:UniProtKB.
+DR   GO; GO:0005634; C:nucleus; IDA:UniProtKB.
+DR   GO; GO:0032991; C:protein-containing complex; IDA:UniProtKB.
+DR   GO; GO:0045296; F:cadherin binding; HDA:BHF-UCL.
+DR   GO; GO:0031492; F:nucleosomal DNA binding; IBA:GO_Central.
+DR   GO; GO:0046982; F:protein heterodimerization activity; IEA:InterPro.
+DR   GO; GO:0007596; P:blood coagulation; TAS:Reactome.
+DR   GO; GO:0044267; P:cellular protein metabolic process; TAS:Reactome.
+DR   GO; GO:0006325; P:chromatin organization; TAS:Reactome.
+DR   GO; GO:0000183; P:chromatin silencing at rDNA; TAS:Reactome.
+DR   GO; GO:0006335; P:DNA replication-dependent nucleosome assembly; IDA:UniProtKB.
+DR   GO; GO:0038111; P:interleukin-7-mediated signaling pathway; TAS:Reactome.
+DR   GO; GO:0045814; P:negative regulation of gene expression, epigenetic; TAS:Reactome.
+DR   GO; GO:0006334; P:nucleosome assembly; IDA:UniProtKB.
+DR   GO; GO:0051290; P:protein heterotetramerization; IDA:UniProtKB.
+DR   GO; GO:0060968; P:regulation of gene silencing; IDA:BHF-UCL.
+DR   GO; GO:0060964; P:regulation of gene silencing by miRNA; TAS:Reactome.
+DR   GO; GO:0045652; P:regulation of megakaryocyte differentiation; TAS:Reactome.
+DR   GO; GO:0032200; P:telomere organization; TAS:BHF-UCL.
+DR   Gene3D; 1.10.20.10; -; 1.
+DR   InterPro; IPR009072; Histone-fold.
+DR   InterPro; IPR007125; Histone_H2A/H2B/H3.
+DR   InterPro; IPR000164; Histone_H3/CENP-A.
+DR   PANTHER; PTHR11426; PTHR11426; 1.
+DR   Pfam; PF00125; Histone; 1.
+DR   PRINTS; PR00622; HISTONEH3.
+DR   SMART; SM00428; H3; 1.
+DR   SUPFAM; SSF47113; SSF47113; 1.
+DR   PROSITE; PS00322; HISTONE_H3_1; 1.
+DR   PROSITE; PS00959; HISTONE_H3_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; ADP-ribosylation; Chromosome;
+KW   Citrullination; Complete proteome; Direct protein sequencing;
+KW   Disease mutation; DNA-binding; Hydroxylation; Methylation;
+KW   Nucleosome core; Nucleus; Phosphoprotein; Reference proteome;
+KW   Ubl conjugation.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:16185088}.
+FT   CHAIN         2    136       Histone H3.1.
+FT                                /FTId=PRO_0000221245.
+FT   MOD_RES       3      3       Asymmetric dimethylarginine; by PRMT6;
+FT                                alternate. {ECO:0000269|PubMed:17898714,
+FT                                ECO:0000269|PubMed:18077460,
+FT                                ECO:0000269|PubMed:18079182}.
+FT   MOD_RES       3      3       Citrulline; alternate.
+FT                                {ECO:0000269|PubMed:16567635}.
+FT   MOD_RES       4      4       Phosphothreonine; by HASPIN.
+FT                                {ECO:0000269|PubMed:15681610,
+FT                                ECO:0000269|PubMed:16185088}.
+FT   MOD_RES       5      5       Allysine; alternate.
+FT                                {ECO:0000269|PubMed:27735137}.
+FT   MOD_RES       5      5       N6,N6,N6-trimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16457588,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES       5      5       N6,N6-dimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16457588,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES       5      5       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES       5      5       N6-(beta-hydroxybutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:27105115}.
+FT   MOD_RES       5      5       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:17194708}.
+FT   MOD_RES       5      5       N6-crotonyllysine; alternate.
+FT                                {ECO:0000269|PubMed:21925322}.
+FT   MOD_RES       5      5       N6-methyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16457588,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES       7      7       Phosphothreonine; by PKC.
+FT                                {ECO:0000269|PubMed:20228790}.
+FT   MOD_RES       9      9       Citrulline; alternate.
+FT                                {ECO:0000269|PubMed:15345777,
+FT                                ECO:0000269|PubMed:16567635}.
+FT   MOD_RES       9      9       Symmetric dimethylarginine; by PRMT5;
+FT                                alternate.
+FT                                {ECO:0000250|UniProtKB:P68433}.
+FT   MOD_RES      10     10       N6,N6,N6-trimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:11242053,
+FT                                ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16457588,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      10     10       N6,N6-dimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:11242053,
+FT                                ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16457588,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      10     10       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES      10     10       N6-(beta-hydroxybutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:27105115}.
+FT   MOD_RES      10     10       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16457588,
+FT                                ECO:0000269|PubMed:16497732,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      10     10       N6-butyryllysine; alternate.
+FT                                {ECO:0000269|PubMed:27105113}.
+FT   MOD_RES      10     10       N6-crotonyllysine; alternate.
+FT                                {ECO:0000269|PubMed:21925322}.
+FT   MOD_RES      10     10       N6-methyllysine; alternate.
+FT                                {ECO:0000269|PubMed:11242053,
+FT                                ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16457588,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      11     11       ADP-ribosylserine; alternate.
+FT                                {ECO:0000269|PubMed:28190768,
+FT                                ECO:0000269|PubMed:29480802}.
+FT   MOD_RES      11     11       Phosphoserine; alternate; by AURKB,
+FT                                AURKC, RPS6KA3, RPS6KA4 and RPS6KA5.
+FT                                {ECO:0000269|PubMed:10464286,
+FT                                ECO:0000269|PubMed:11856369,
+FT                                ECO:0000269|PubMed:12560483,
+FT                                ECO:0000269|PubMed:15681610,
+FT                                ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16457588}.
+FT   MOD_RES      12     12       Phosphothreonine; by PKC and CHEK1.
+FT                                {ECO:0000269|PubMed:12560483,
+FT                                ECO:0000269|PubMed:18066052,
+FT                                ECO:0000269|PubMed:18243098}.
+FT   MOD_RES      15     15       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES      15     15       N6-(beta-hydroxybutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:27105115}.
+FT   MOD_RES      15     15       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16457588,
+FT                                ECO:0000269|PubMed:16497732,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      15     15       N6-succinyllysine; alternate.
+FT                                {ECO:0000269|PubMed:22389435}.
+FT   MOD_RES      18     18       Asymmetric dimethylarginine; by CARM1;
+FT                                alternate. {ECO:0000269|PubMed:15345777,
+FT                                ECO:0000269|PubMed:15471871,
+FT                                ECO:0000269|PubMed:16497732}.
+FT   MOD_RES      18     18       Citrulline; alternate.
+FT                                {ECO:0000269|PubMed:15345777,
+FT                                ECO:0000269|PubMed:16497732,
+FT                                ECO:0000269|PubMed:16567635}.
+FT   MOD_RES      19     19       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES      19     19       N6-(beta-hydroxybutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:27105115}.
+FT   MOD_RES      19     19       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      19     19       N6-butyryllysine; alternate.
+FT                                {ECO:0000269|PubMed:27105113}.
+FT   MOD_RES      19     19       N6-crotonyllysine; alternate.
+FT                                {ECO:0000269|PubMed:21925322}.
+FT   MOD_RES      19     19       N6-methyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      24     24       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES      24     24       N6-(beta-hydroxybutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:27105115}.
+FT   MOD_RES      24     24       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16457588,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      24     24       N6-butyryllysine; alternate.
+FT                                {ECO:0000269|PubMed:27105113}.
+FT   MOD_RES      24     24       N6-crotonyllysine; alternate.
+FT                                {ECO:0000269|PubMed:21925322}.
+FT   MOD_RES      24     24       N6-methyllysine; alternate.
+FT                                {ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      27     27       Citrulline.
+FT                                {ECO:0000269|PubMed:16567635}.
+FT   MOD_RES      28     28       N6,N6,N6-trimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      28     28       N6,N6-dimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      28     28       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES      28     28       N6-(beta-hydroxybutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:27105115}.
+FT   MOD_RES      28     28       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      28     28       N6-crotonyllysine; alternate.
+FT                                {ECO:0000269|PubMed:21925322}.
+FT   MOD_RES      28     28       N6-methyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      29     29       ADP-ribosylserine; alternate.
+FT                                {ECO:0000269|PubMed:28190768,
+FT                                ECO:0000269|PubMed:29480802}.
+FT   MOD_RES      29     29       Phosphoserine; alternate; by AURKB, AURKC
+FT                                and RPS6KA5.
+FT                                {ECO:0000269|PubMed:10464286,
+FT                                ECO:0000269|PubMed:11856369,
+FT                                ECO:0000269|PubMed:15681610,
+FT                                ECO:0000269|PubMed:15684425,
+FT                                ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16457588}.
+FT   MOD_RES      37     37       N6,N6,N6-trimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:15983376,
+FT                                ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      37     37       N6,N6-dimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:15983376,
+FT                                ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      37     37       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES      37     37       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:17189264,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      37     37       N6-methyllysine; alternate.
+FT                                {ECO:0000269|PubMed:15983376,
+FT                                ECO:0000269|PubMed:16185088,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      38     38       N6-methyllysine.
+FT                                {ECO:0000269|PubMed:15983376}.
+FT   MOD_RES      42     42       Phosphotyrosine.
+FT                                {ECO:0000269|PubMed:19783980}.
+FT   MOD_RES      57     57       N6,N6,N6-trimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:17194708,
+FT                                ECO:0000269|PubMed:22387026}.
+FT   MOD_RES      57     57       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES      57     57       N6-(beta-hydroxybutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:27105115}.
+FT   MOD_RES      57     57       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      57     57       N6-crotonyllysine; alternate.
+FT                                {ECO:0000269|PubMed:21925322}.
+FT   MOD_RES      57     57       N6-methyllysine; by EHMT2; alternate.
+FT                                {ECO:0000269|PubMed:17194708,
+FT                                ECO:0000269|PubMed:22387026}.
+FT   MOD_RES      57     57       N6-succinyllysine; alternate.
+FT                                {ECO:0000269|PubMed:22389435}.
+FT   MOD_RES      58     58       Phosphoserine.
+FT                                {ECO:0000269|PubMed:20850016}.
+FT   MOD_RES      65     65       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES      65     65       N6-methyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      80     80       N6,N6,N6-trimethyllysine; alternate.
+FT                                {ECO:0000250|UniProtKB:P68433}.
+FT   MOD_RES      80     80       N6,N6-dimethyllysine; alternate.
+FT                                {ECO:0000269|PubMed:15525939,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      80     80       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES      80     80       N6-(beta-hydroxybutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:27105115}.
+FT   MOD_RES      80     80       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      80     80       N6-methyllysine; alternate.
+FT                                {ECO:0000269|PubMed:15525939,
+FT                                ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:16627869,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES      80     80       N6-succinyllysine; alternate.
+FT                                {ECO:0000269|PubMed:22389435,
+FT                                ECO:0000269|PubMed:29211711}.
+FT   MOD_RES      81     81       Phosphothreonine.
+FT                                {ECO:0000269|PubMed:20850016}.
+FT   MOD_RES      87     87       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:P84243}.
+FT   MOD_RES     108    108       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:Q71DI3}.
+FT   MOD_RES     116    116       N6-acetyllysine.
+FT                                {ECO:0000269|PubMed:19520870}.
+FT   MOD_RES     123    123       N6-(2-hydroxyisobutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:24681537}.
+FT   MOD_RES     123    123       N6-(beta-hydroxybutyryl)lysine;
+FT                                alternate. {ECO:0000269|PubMed:27105115}.
+FT   MOD_RES     123    123       N6-acetyllysine; alternate.
+FT                                {ECO:0000269|PubMed:19520870,
+FT                                ECO:0000269|PubMed:23415232}.
+FT   MOD_RES     123    123       N6-methyllysine; alternate.
+FT                                {ECO:0000269|PubMed:16267050,
+FT                                ECO:0000269|PubMed:17194708}.
+FT   MOD_RES     123    123       N6-succinyllysine; alternate.
+FT                                {ECO:0000269|PubMed:22389435}.
+FT   VARIANT      28     28       K -> M (in GLM; non-brain stem pediatric
+FT                                glioblastoma and diffuse intrinsic
+FT                                pontine glioma; somatic mutation; results
+FT                                in a global decrease of H3K27me3 levels;
+FT                                dbSNP:rs1057519904).
+FT                                {ECO:0000269|PubMed:22286216,
+FT                                ECO:0000269|PubMed:23603901}.
+FT                                /FTId=VAR_079018.
+FT   VARIANT      37     37       K -> I (probable disease-associated
+FT                                mutation found in pediatric
+FT                                undifferentiated soft tissue sarcoma
+FT                                samples; somatic mutation; results in
+FT                                global decrease of H3K36me2 and H3K36me3
+FT                                levels and increased H3K27me3 levels).
+FT                                {ECO:0000269|PubMed:27174990}.
+FT                                /FTId=VAR_079019.
+FT   VARIANT      37     37       K -> M (probable disease-associated
+FT                                mutation found in pediatric
+FT                                undifferentiated soft tissue sarcoma
+FT                                samples; somatic mutation; also found in
+FT                                a subset of human papillomavirus-negative
+FT                                head and neck squamous cell carcinomas;
+FT                                results in global decrease of H3K36me2
+FT                                and H3K36me3 levels and increased
+FT                                H3K27me3 levels).
+FT                                {ECO:0000269|PubMed:27174990,
+FT                                ECO:0000269|PubMed:28067913}.
+FT                                /FTId=VAR_079020.
+FT   CONFLICT     70     70       R -> C (in Ref. 13; AAH67493).
+FT                                {ECO:0000305}.
+FT   CONFLICT    100    100       Y -> T (in Ref. 7; CAB02546).
+FT                                {ECO:0000305}.
+FT   CONFLICT    122    122       P -> L (in Ref. 13; AAH66884).
+FT                                {ECO:0000305}.
+FT   CONFLICT    135    135       Missing (in Ref. 2; AAA52651).
+FT                                {ECO:0000305}.
+FT   STRAND        4      7       {ECO:0000244|PDB:5SVY}.
+FT   STRAND        9     15       {ECO:0000244|PDB:5WVO}.
+FT   STRAND       25     27       {ECO:0000244|PDB:4X3K}.
+FT   STRAND       32     34       {ECO:0000244|PDB:5VA6}.
+FT   STRAND       35     37       {ECO:0000244|PDB:5V22}.
+FT   STRAND       45     49       {ECO:0000244|PDB:5T1I}.
+FT   HELIX        50     58       {ECO:0000244|PDB:5C3I}.
+FT   HELIX        65     77       {ECO:0000244|PDB:5Y0D}.
+FT   STRAND       80     82       {ECO:0000244|PDB:5AV6}.
+FT   HELIX        87    114       {ECO:0000244|PDB:5Y0D}.
+FT   STRAND      118    120       {ECO:0000244|PDB:5Y0D}.
+FT   HELIX       122    132       {ECO:0000244|PDB:5Y0D}.
+SQ   SEQUENCE   136 AA;  15404 MW;  9B89008EA50A0EF6 CRC64;
+     MARTKQTARK STGGKAPRKQ LATKAARKSA PATGGVKKPH RYRPGTVALR EIRRYQKSTE
+     LLIRKLPFQR LVREIAQDFK TDLRFQSSAV MALQEACEAY LVGLFEDTNL CAIHAKRVTI
+     MPKDIQLARR IRGERA
+//

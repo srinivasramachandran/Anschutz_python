@@ -1,0 +1,2 @@
+This is a simple file
+You can use this file to understand how python file commands work
